@@ -26,9 +26,11 @@ const jetbrains = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CAMPUSIQ | Premium College Discovery Platform",
+  title: "CAMPUSIQ | College Discovery Platform",
   description: "An independent discovery engine, placement progression index, and qualitative audit compilation covering major higher education campuses in India.",
-  viewport: "width=device-width, initial-scale=1, maximum-scale=5",
+  icons: {
+    icon: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%23E8D5A3'/><text x='50' y='72' font-size='65' font-family='serif' font-weight='bold' text-anchor='middle' fill='%230A0A0A'>IQ</text></svg>",
+  },
 };
 
 export default function RootLayout({
