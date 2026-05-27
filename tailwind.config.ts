@@ -8,13 +8,45 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      colors: {
+        background: "#0A0A0A",
+        surface: {
+          100: "#111111",
+          200: "#1A1A1A",
+        },
+        primary: {
+          DEFAULT: "#E8D5A3",
+          hover: "#d9c490",
+        },
+        secondary: {
+          DEFAULT: "#4A9B8E",
+          hover: "#3d8276",
+        },
+        text: {
+          primary: "#F5F0E8",
+          secondary: "#8A8580",
+        },
+        border: {
+          DEFAULT: "#2A2520",
+          accent: "#E8D5A3",
+        },
+        destructive: "#C4614A",
+      },
+      borderRadius: {
+        none: "0px",
+        sm: "2px",
+        DEFAULT: "4px",
+        md: "4px",
+        lg: "4px",
+      },
+      fontFamily: {
+        serif: ["var(--font-playfair)", "serif"],
+        sans: ["var(--font-inter)", "sans-serif"],
+        mono: ["var(--font-jetbrains)", "monospace"],
       },
     },
   },
   plugins: [],
 };
 export default config;
+

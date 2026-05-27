@@ -1,0 +1,5014 @@
+[
+  {
+    "id": "iit-bombay",
+    "name": "Indian Institute of Technology Bombay",
+    "slug": "iit-bombay",
+    "location": "Mumbai, Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "type": "Engineering",
+    "established": 1958,
+    "nirfRank": 3,
+    "rating": 4.8,
+    "reviewCount": 420,
+    "acceptanceRate": 1.2,
+    "totalStudents": 11500,
+    "campusSize": 550,
+    "about": "Established in 1958, the Indian Institute of Technology Bombay (IITB) is one of the premier public engineering and research institutions in the world. Located in Powai, Mumbai, it is renowned for its state-of-the-art research facilities, highly selective admissions, and outstanding placement records. IIT Bombay has evolved from a regional institute into a globally recognized leader in technical education, engineering sciences, and entrepreneurship.",
+    "accreditations": [
+      "Institute of Eminence",
+      "AICTE",
+      "UGC"
+    ],
+    "entranceExams": [
+      "JEE Advanced",
+      "GATE",
+      "UCEED"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "totalFees": 950000,
+        "seats": 120,
+        "exam": "JEE Advanced",
+        "popular": true
+      },
+      {
+        "name": "B.Tech in Electrical Engineering",
+        "duration": "4 Years",
+        "totalFees": 950000,
+        "seats": 100,
+        "exam": "JEE Advanced",
+        "popular": false
+      },
+      {
+        "name": "M.Tech in Microelectronics",
+        "duration": "2 Years",
+        "totalFees": 250000,
+        "seats": 45,
+        "exam": "GATE",
+        "popular": false
+      },
+      {
+        "name": "Bachelor of Design (B.Des)",
+        "duration": "4 Years",
+        "totalFees": 880000,
+        "seats": 30,
+        "exam": "UCEED",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 21.82,
+      "highest": 168,
+      "percentage": 94,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Apple",
+        "Rubrik",
+        "Optiver",
+        "Qualcomm"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 19.5,
+          "highest": 150
+        },
+        {
+          "year": 2023,
+          "avg": 21.2,
+          "highest": 160
+        },
+        {
+          "year": 2024,
+          "avg": 21.82,
+          "highest": 168
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Aniket Sharma",
+        "course": "B.Tech CSE",
+        "batch": "2024",
+        "rating": 5,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 5,
+          "infrastructure": 5,
+          "social": 5
+        },
+        "text": "Living and learning at Powai has been the defining experience of my life. The coding culture is outstanding, classes are rigorous, and peer learning is top-notch. Campus sits between Powai Lake and Vihar Lake, giving a scenic look in Mumbai. Infrastructure is stellar, though hostel rooms are slightly compact.",
+        "helpful": 42
+      },
+      {
+        "author": "Priya Iyer",
+        "course": "B.Des",
+        "batch": "2023",
+        "rating": 4.6,
+        "categories": {
+          "academics": 5,
+          "accommodation": 3,
+          "placements": 4,
+          "infrastructure": 5,
+          "social": 5
+        },
+        "text": "IDC School of Design at IIT Bombay is an incredible place for creative freedom. You collaborate with engineers on projects, which gives a unique multi-disciplinary flavor. Best labs and machinery. Mess food is standard, average but edible.",
+        "helpful": 18
+      }
+    ],
+    "quickStats": {
+      "rank": 3,
+      "acceptance": "1.2%",
+      "students": "11,500",
+      "campus": "550 Acres"
+    }
+  },
+  {
+    "id": "iit-delhi",
+    "name": "Indian Institute of Technology Delhi",
+    "slug": "iit-delhi",
+    "location": "New Delhi, Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "type": "Engineering",
+    "established": 1961,
+    "nirfRank": 2,
+    "rating": 4.8,
+    "reviewCount": 395,
+    "acceptanceRate": 1.3,
+    "totalStudents": 10200,
+    "campusSize": 320,
+    "about": "Indian Institute of Technology Delhi is a public research university located in Hauz Khas, Delhi. Founded in 1961, it was formally declared an Institution of National Importance under the Institutes of Technology Act. IIT Delhi's strategic location in the national capital fosters massive corporate collaborations and public policy research hubs, consistently placing it among India's elite academic powerhouses.",
+    "accreditations": [
+      "Institute of Eminence",
+      "AICTE",
+      "UGC"
+    ],
+    "entranceExams": [
+      "JEE Advanced",
+      "GATE",
+      "CEED"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "totalFees": 960000,
+        "seats": 115,
+        "exam": "JEE Advanced",
+        "popular": true
+      },
+      {
+        "name": "B.Tech in Mathematics & Computing",
+        "duration": "4 Years",
+        "totalFees": 960000,
+        "seats": 80,
+        "exam": "JEE Advanced",
+        "popular": false
+      },
+      {
+        "name": "M.Tech in VLSI Design",
+        "duration": "2 Years",
+        "totalFees": 260000,
+        "seats": 40,
+        "exam": "GATE",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 20.6,
+      "highest": 154,
+      "percentage": 92,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Intel",
+        "Nvidia",
+        "Goldman Sachs",
+        "McKinsey"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 18.2,
+          "highest": 125
+        },
+        {
+          "year": 2023,
+          "avg": 19.8,
+          "highest": 140
+        },
+        {
+          "year": 2024,
+          "avg": 20.6,
+          "highest": 154
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Rohit Verma",
+        "course": "B.Tech CSE",
+        "batch": "2025",
+        "rating": 4.8,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 5,
+          "infrastructure": 5,
+          "social": 5
+        },
+        "text": "Superb academic culture. Hauz Khas location means you have infinite food and social hangouts nearby. Highly demanding curriculum, but you get to learn from the brightest minds. Placements are extremely robust and smooth.",
+        "helpful": 35
+      }
+    ],
+    "quickStats": {
+      "rank": 2,
+      "acceptance": "1.3%",
+      "students": "10,200",
+      "campus": "320 Acres"
+    }
+  },
+  {
+    "id": "iit-madras",
+    "name": "Indian Institute of Technology Madras",
+    "slug": "iit-madras",
+    "location": "Chennai, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "type": "Engineering",
+    "established": 1959,
+    "nirfRank": 1,
+    "rating": 4.9,
+    "reviewCount": 450,
+    "acceptanceRate": 1.1,
+    "totalStudents": 12000,
+    "campusSize": 630,
+    "about": "The Indian Institute of Technology Madras is a public technical university located in Chennai, Tamil Nadu. It has been ranked as the #1 engineering institute in India by the National Institutional Ranking Framework (NIRF) consistently for several years. Nestled in a lush green campus that was formerly part of the Guindy National Park, IIT Madras is prominent for its massive Research Park, incubating over 300 deep-tech startups.",
+    "accreditations": [
+      "Institute of Eminence",
+      "AICTE",
+      "NBA"
+    ],
+    "entranceExams": [
+      "JEE Advanced",
+      "GATE",
+      "JAM"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "totalFees": 940000,
+        "seats": 105,
+        "exam": "JEE Advanced",
+        "popular": true
+      },
+      {
+        "name": "B.Tech in Aerospace Engineering",
+        "duration": "4 Years",
+        "totalFees": 940000,
+        "seats": 60,
+        "exam": "JEE Advanced",
+        "popular": false
+      },
+      {
+        "name": "Dual Degree (B.Tech + M.Tech) in Data Science",
+        "duration": "5 Years",
+        "totalFees": 1180000,
+        "seats": 50,
+        "exam": "JEE Advanced",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 22.4,
+      "highest": 198,
+      "percentage": 95,
+      "topRecruiters": [
+        "Google",
+        "Uber",
+        "Jane Street",
+        "Apple",
+        "Texas Instruments",
+        "Qualcomm"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 19.1,
+          "highest": 130
+        },
+        {
+          "year": 2023,
+          "avg": 21,
+          "highest": 180
+        },
+        {
+          "year": 2024,
+          "avg": 22.4,
+          "highest": 198
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Karthik Raja",
+        "course": "B.Tech CSE",
+        "batch": "2024",
+        "rating": 5,
+        "categories": {
+          "academics": 5,
+          "accommodation": 5,
+          "placements": 5,
+          "infrastructure": 5,
+          "social": 5
+        },
+        "text": "Ranked #1 for a reason. IIT Madras provides an unparalleled academic biosphere. The campus is basically a forest filled with deer and monkeys, which is amazing to see right inside a major city. Research Park access is an absolute gamechanger for startups.",
+        "helpful": 50
+      }
+    ],
+    "quickStats": {
+      "rank": 1,
+      "acceptance": "1.1%",
+      "students": "12,000",
+      "campus": "630 Acres"
+    }
+  },
+  {
+    "id": "nit-trichy",
+    "name": "National Institute of Technology Tiruchirappalli",
+    "slug": "nit-trichy",
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Tiruchirappalli",
+    "type": "Engineering",
+    "established": 1964,
+    "nirfRank": 9,
+    "rating": 4.5,
+    "reviewCount": 310,
+    "acceptanceRate": 2.5,
+    "totalStudents": 6800,
+    "campusSize": 800,
+    "about": "National Institute of Technology Tiruchirappalli, also known as NIT Trichy, is a public technical and research university near the city of Tiruchirappalli in Tamil Nadu, India. Founded in 1964 as Regional Engineering College Tiruchirappalli, it is the top-ranked NIT under NIRF, celebrating outstanding core placements and academic excellence.",
+    "accreditations": [
+      "NBA",
+      "AICTE"
+    ],
+    "entranceExams": [
+      "JEE Main",
+      "NIMCET",
+      "GATE"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "totalFees": 580000,
+        "seats": 110,
+        "exam": "JEE Main",
+        "popular": true
+      },
+      {
+        "name": "B.Tech in Electronics & Communication Engineering",
+        "duration": "4 Years",
+        "totalFees": 580000,
+        "seats": 100,
+        "exam": "JEE Main",
+        "popular": false
+      },
+      {
+        "name": "Master of Computer Applications (MCA)",
+        "duration": "3 Years",
+        "totalFees": 270000,
+        "seats": 90,
+        "exam": "NIMCET",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 14.8,
+      "highest": 52.8,
+      "percentage": 88,
+      "topRecruiters": [
+        "Amazon",
+        "Oracle",
+        "Cisco",
+        "Qualcomm",
+        "De Shaw",
+        "Texas Instruments"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 12.5,
+          "highest": 44
+        },
+        {
+          "year": 2023,
+          "avg": 13.9,
+          "highest": 50
+        },
+        {
+          "year": 2024,
+          "avg": 14.8,
+          "highest": 52.8
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Venkat R.",
+        "course": "B.Tech CSE",
+        "batch": "2023",
+        "rating": 4.5,
+        "categories": {
+          "academics": 4,
+          "accommodation": 4,
+          "placements": 5,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "The culture at NITT is extremely driven. Pragyan (techno-management fest) and Festember (cultural fest) are legendary. Placements are almost equal to new IITs, and the vast alumni network is highly supportive.",
+        "helpful": 24
+      }
+    ],
+    "quickStats": {
+      "rank": 9,
+      "acceptance": "2.5%",
+      "students": "6,800",
+      "campus": "800 Acres"
+    }
+  },
+  {
+    "id": "bits-pilani",
+    "name": "Birla Institute of Technology and Science, Pilani",
+    "slug": "bits-pilani",
+    "location": "Pilani, Rajasthan",
+    "state": "Rajasthan",
+    "city": "Pilani",
+    "type": "Engineering",
+    "established": 1964,
+    "nirfRank": 25,
+    "rating": 4.7,
+    "reviewCount": 380,
+    "acceptanceRate": 1.8,
+    "totalStudents": 9500,
+    "campusSize": 328,
+    "about": "Birla Institute of Technology & Science, Pilani (BITS Pilani) is a private deemed university and an Institution of Eminence located in Pilani, Rajasthan. BITS is highly famous for its strict 'No Reservation' policy, its unique Practice School (compulsory corporate internships), and its legendary zero-attendance rule, which fosters stellar startup founders and self-motivated engineers.",
+    "accreditations": [
+      "Institute of Eminence",
+      "NAAC A++"
+    ],
+    "entranceExams": [
+      "BITSAT",
+      "GATE"
+    ],
+    "courses": [
+      {
+        "name": "B.E. in Computer Science",
+        "duration": "4 Years",
+        "totalFees": 2200000,
+        "seats": 120,
+        "exam": "BITSAT",
+        "popular": true
+      },
+      {
+        "name": "B.E. in Electronics & Instrumentation",
+        "duration": "4 Years",
+        "totalFees": 2200000,
+        "seats": 80,
+        "exam": "BITSAT",
+        "popular": false
+      },
+      {
+        "name": "M.Sc. in Physics (Dual Degree)",
+        "duration": "5 Years",
+        "totalFees": 2600000,
+        "seats": 60,
+        "exam": "BITSAT",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 18.2,
+      "highest": 60.7,
+      "percentage": 93,
+      "topRecruiters": [
+        "Google",
+        "Salesforce",
+        "Atlassian",
+        "De Shaw",
+        "JPMorgan Chase",
+        "Nvidia"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 16.5,
+          "highest": 50
+        },
+        {
+          "year": 2023,
+          "avg": 17.8,
+          "highest": 58
+        },
+        {
+          "year": 2024,
+          "avg": 18.2,
+          "highest": 60.7
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Siddharth Goel",
+        "course": "B.E. Computer Science",
+        "batch": "2024",
+        "rating": 4.8,
+        "categories": {
+          "academics": 5,
+          "accommodation": 5,
+          "placements": 5,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "Zero attendance policy is real and forces you to grow up and manage your own time. The tech and startup ecosystem is world-class; BITSians are everywhere in tech. Fees are on the higher side but the ROI is easily justified via Practice School placements.",
+        "helpful": 37
+      }
+    ],
+    "quickStats": {
+      "rank": 25,
+      "acceptance": "1.8%",
+      "students": "9,500",
+      "campus": "328 Acres"
+    }
+  },
+  {
+    "id": "manipal-mit",
+    "name": "Manipal Institute of Technology",
+    "slug": "manipal-mit",
+    "location": "Manipal, Karnataka",
+    "state": "Karnataka",
+    "city": "Manipal",
+    "type": "Engineering",
+    "established": 1957,
+    "nirfRank": 61,
+    "rating": 4.3,
+    "reviewCount": 260,
+    "acceptanceRate": 8.5,
+    "totalStudents": 8000,
+    "campusSize": 188,
+    "about": "Manipal Institute of Technology (MIT), established in 1957, is a constituent college of Manipal Academy of Higher Education (MAHE). It is highly appreciated for its world-class hostel infrastructure, diverse international exchange programs, vibrant extracurricular scene, and premium research opportunities in coastal Karnataka.",
+    "accreditations": [
+      "NBA",
+      "AICTE"
+    ],
+    "entranceExams": [
+      "MET"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "totalFees": 1850000,
+        "seats": 180,
+        "exam": "MET",
+        "popular": true
+      },
+      {
+        "name": "B.Tech in Biotechnology",
+        "duration": "4 Years",
+        "totalFees": 1420000,
+        "seats": 60,
+        "exam": "MET",
+        "popular": false
+      },
+      {
+        "name": "B.Tech in Aeronautical Engineering",
+        "duration": "4 Years",
+        "totalFees": 1650000,
+        "seats": 60,
+        "exam": "MET",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 10.4,
+      "highest": 43.5,
+      "percentage": 82,
+      "topRecruiters": [
+        "Microsoft",
+        "Intel",
+        "Qualcomm",
+        "Amazon",
+        "Deloitte",
+        "Cisco"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 9.1,
+          "highest": 36
+        },
+        {
+          "year": 2023,
+          "avg": 9.8,
+          "highest": 40
+        },
+        {
+          "year": 2024,
+          "avg": 10.4,
+          "highest": 43.5
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Sameer K.",
+        "course": "B.Tech CSE",
+        "batch": "2024",
+        "rating": 4.3,
+        "categories": {
+          "academics": 4,
+          "accommodation": 5,
+          "placements": 4,
+          "infrastructure": 5,
+          "social": 5
+        },
+        "text": "Campus life at Manipal is unrivaled in India. Student activities, tech clubs, and international collaborations are abundant. The infrastructure feels like a Western university. Academics are decent, and top MNCs regularly visit the campus.",
+        "helpful": 15
+      }
+    ],
+    "quickStats": {
+      "rank": 61,
+      "acceptance": "8.5%",
+      "students": "8,000",
+      "campus": "188 Acres"
+    }
+  },
+  {
+    "id": "vit-vellore",
+    "name": "Vellore Institute of Technology",
+    "slug": "vit-vellore",
+    "location": "Vellore, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Vellore",
+    "type": "Engineering",
+    "established": 1984,
+    "nirfRank": 11,
+    "rating": 4.2,
+    "reviewCount": 510,
+    "acceptanceRate": 6.2,
+    "totalStudents": 35000,
+    "campusSize": 372,
+    "about": "Vellore Institute of Technology (VIT) is a private deemed university located in Vellore, Tamil Nadu. Founded in 1984, it has expanded into one of India's largest engineering schools, utilizing a unique Fully Flexible Credit System (FFCS) allowing students to select their own classes and faculty schedules.",
+    "accreditations": [
+      "NAAC A++",
+      "ABET",
+      "UGC"
+    ],
+    "entranceExams": [
+      "VITEEE",
+      "VITMEE"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "totalFees": 780000,
+        "seats": 1200,
+        "exam": "VITEEE",
+        "popular": true
+      },
+      {
+        "name": "B.Tech in Information Technology",
+        "duration": "4 Years",
+        "totalFees": 700000,
+        "seats": 400,
+        "exam": "VITEEE",
+        "popular": false
+      },
+      {
+        "name": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "totalFees": 700000,
+        "seats": 500,
+        "exam": "VITEEE",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 9.2,
+      "highest": 102,
+      "percentage": 85,
+      "topRecruiters": [
+        "Microsoft",
+        "Amazon",
+        "Cognizant",
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Intel"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 8.1,
+          "highest": 75
+        },
+        {
+          "year": 2023,
+          "avg": 8.9,
+          "highest": 90
+        },
+        {
+          "year": 2024,
+          "avg": 9.2,
+          "highest": 102
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Rahul Nair",
+        "course": "B.Tech CSE",
+        "batch": "2023",
+        "rating": 4,
+        "categories": {
+          "academics": 4,
+          "accommodation": 3,
+          "placements": 4,
+          "infrastructure": 5,
+          "social": 4
+        },
+        "text": "The student crowd at VIT is massive, which creates high competition. Fully Flexible Credit System (FFCS) is great, but getting your desired slot is like a fast-finger contest. Infrastructure and labs are excellent. Strict rules regarding outtimes.",
+        "helpful": 29
+      }
+    ],
+    "quickStats": {
+      "rank": 11,
+      "acceptance": "6.2%",
+      "students": "35,000",
+      "campus": "372 Acres"
+    }
+  },
+  {
+    "id": "srm-chennai",
+    "name": "SRM Institute of Science and Technology",
+    "slug": "srm-chennai",
+    "location": "Chennai, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "type": "Engineering",
+    "established": 1985,
+    "nirfRank": 28,
+    "rating": 4.1,
+    "reviewCount": 290,
+    "acceptanceRate": 12,
+    "totalStudents": 40000,
+    "campusSize": 250,
+    "about": "SRM Institute of Science and Technology, formerly SRM University, is a private deemed university located in Kattankulathur, near Chennai. Boasting an ultra-modern campus featuring a hospital and its own metro connection nearby, SRM hosts thousands of students across different branches of research.",
+    "accreditations": [
+      "NAAC A++",
+      "UGC",
+      "AICTE"
+    ],
+    "entranceExams": [
+      "SRMJEEE"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "totalFees": 1000000,
+        "seats": 1000,
+        "exam": "SRMJEEE",
+        "popular": true
+      },
+      {
+        "name": "B.Tech in Civil Engineering",
+        "duration": "4 Years",
+        "totalFees": 800000,
+        "seats": 120,
+        "exam": "SRMJEEE",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 7.5,
+      "highest": 42,
+      "percentage": 80,
+      "topRecruiters": [
+        "TCS",
+        "Cognizant",
+        "Amazon",
+        "Wipro",
+        "L&T",
+        "Capgemini"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 6.8,
+          "highest": 35
+        },
+        {
+          "year": 2023,
+          "avg": 7.2,
+          "highest": 40
+        },
+        {
+          "year": 2024,
+          "avg": 7.5,
+          "highest": 42
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Ayush Mishra",
+        "course": "B.Tech CSE",
+        "batch": "2024",
+        "rating": 4,
+        "categories": {
+          "academics": 3,
+          "accommodation": 4,
+          "placements": 4,
+          "infrastructure": 5,
+          "social": 5
+        },
+        "text": "SRM offers massive scope for networking since the student community is huge. The campus has everything you could need, from food courts to printing centers. Placements are massive but highly competitive due to mass recruiting.",
+        "helpful": 10
+      }
+    ],
+    "quickStats": {
+      "rank": 28,
+      "acceptance": "12.0%",
+      "students": "40,000",
+      "campus": "250 Acres"
+    }
+  },
+  {
+    "id": "christ-university",
+    "name": "Christ University",
+    "slug": "christ-university",
+    "location": "Bengaluru, Karnataka",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "type": "Commerce",
+    "established": 1969,
+    "nirfRank": 60,
+    "rating": 4.3,
+    "reviewCount": 340,
+    "acceptanceRate": 15,
+    "totalStudents": 25000,
+    "campusSize": 80,
+    "about": "Christ University is a private deemed-to-be university located in Bengaluru, Karnataka. Established in 1969 by St. Kuriakose Elias Chavara, it is highly renowned for its rigorous academic schedules, strict dress codes, and outstanding corporate placements in Commerce, Management, and Humanities fields.",
+    "accreditations": [
+      "NAAC A+",
+      "UGC"
+    ],
+    "entranceExams": [
+      "CUET"
+    ],
+    "courses": [
+      {
+        "name": "Bachelor of Commerce (B.Com Honors)",
+        "duration": "3 Years",
+        "totalFees": 350000,
+        "seats": 300,
+        "exam": "CUET",
+        "popular": true
+      },
+      {
+        "name": "BBA (Finance and International Business)",
+        "duration": "3 Years",
+        "totalFees": 600000,
+        "seats": 240,
+        "exam": "CUET",
+        "popular": false
+      },
+      {
+        "name": "B.A. in English & Psychology",
+        "duration": "3 Years",
+        "totalFees": 220000,
+        "seats": 120,
+        "exam": "CUET",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 7.9,
+      "highest": 21.5,
+      "percentage": 86,
+      "topRecruiters": [
+        "EY",
+        "Deloitte",
+        "KPMG",
+        "PwC",
+        "Goldman Sachs",
+        "McKinsey"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 6.8,
+          "highest": 18
+        },
+        {
+          "year": 2023,
+          "avg": 7.4,
+          "highest": 20
+        },
+        {
+          "year": 2024,
+          "avg": 7.9,
+          "highest": 21.5
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Riya George",
+        "course": "B.Com Honors",
+        "batch": "2024",
+        "rating": 4.2,
+        "categories": {
+          "academics": 5,
+          "accommodation": 3,
+          "placements": 5,
+          "infrastructure": 4,
+          "social": 3
+        },
+        "text": "Extremely strict rules (85% attendance, formal clothes are mandatory every day), but it prepares you exceptionally well for corporate life. The brand value of Christ is unbeatable for finance and consulting in South India.",
+        "helpful": 32
+      }
+    ],
+    "quickStats": {
+      "rank": 60,
+      "acceptance": "15.0%",
+      "students": "25,000",
+      "campus": "80 Acres"
+    }
+  },
+  {
+    "id": "symbiosis-pune",
+    "name": "Symbiosis International University",
+    "slug": "symbiosis-pune",
+    "location": "Pune, Maharashtra",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "type": "Management",
+    "established": 1971,
+    "nirfRank": 32,
+    "rating": 4.4,
+    "reviewCount": 270,
+    "acceptanceRate": 7.8,
+    "totalStudents": 18000,
+    "campusSize": 350,
+    "about": "Symbiosis International University is a multi-campus private deemed university based in Pune, India. Guided by the principles of 'Vasudhaiva Kutumbakam' (the world is one family), Symbiosis is highly acclaimed for its media, design, business, and law programs, which foster huge global corporate connectivity.",
+    "accreditations": [
+      "NAAC A++",
+      "UGC"
+    ],
+    "entranceExams": [
+      "SET",
+      "SNAP",
+      "SLAT"
+    ],
+    "courses": [
+      {
+        "name": "Master of Business Administration (MBA)",
+        "duration": "2 Years",
+        "totalFees": 2100000,
+        "seats": 180,
+        "exam": "SNAP",
+        "popular": true
+      },
+      {
+        "name": "BBA (General)",
+        "duration": "3 Years",
+        "totalFees": 980000,
+        "seats": 300,
+        "exam": "SET",
+        "popular": false
+      },
+      {
+        "name": "BBA LLB (Honors)",
+        "duration": "5 Years",
+        "totalFees": 1850000,
+        "seats": 120,
+        "exam": "SLAT",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 26.7,
+      "highest": 45.5,
+      "percentage": 98,
+      "topRecruiters": [
+        "Accenture",
+        "Infosys Consulting",
+        "ICICI Bank",
+        "HDFC",
+        "Aditya Birla",
+        "Boston Consulting Group"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 23,
+          "highest": 38
+        },
+        {
+          "year": 2023,
+          "avg": 25.1,
+          "highest": 42
+        },
+        {
+          "year": 2024,
+          "avg": 26.7,
+          "highest": 45.5
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Vikram Sen",
+        "course": "MBA",
+        "batch": "2023",
+        "rating": 4.6,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 5,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "Lavale hilltop campus in Pune is breathtaking. High quality peer network. Placement cells are incredibly active and the corporate branding gets top tier firms in the campus. A truly premium ecosystem.",
+        "helpful": 21
+      }
+    ],
+    "quickStats": {
+      "rank": 32,
+      "acceptance": "7.8%",
+      "students": "18,000",
+      "campus": "350 Acres"
+    }
+  },
+  {
+    "id": "nlsiu-bangalore",
+    "name": "National Law School of India University",
+    "slug": "nlsiu-bangalore",
+    "location": "Bengaluru, Karnataka",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "type": "Law",
+    "established": 1986,
+    "nirfRank": 1,
+    "rating": 4.9,
+    "reviewCount": 180,
+    "acceptanceRate": 0.9,
+    "totalStudents": 1100,
+    "campusSize": 23,
+    "about": "The National Law School of India University (NLSIU) is the premier public law school located in Nagarbhavi, Bengaluru. Ranked as the #1 Law institute under NIRF without exception, it is highly recognized for its rigorous tri-mester system and for shaping legal thinkers, policy analysts, and top corporate litigators.",
+    "accreditations": [
+      "BCI",
+      "UGC"
+    ],
+    "entranceExams": [
+      "CLAT"
+    ],
+    "courses": [
+      {
+        "name": "B.A. LL.B. (Honors)",
+        "duration": "5 Years",
+        "totalFees": 1620000,
+        "seats": 180,
+        "exam": "CLAT",
+        "popular": true
+      },
+      {
+        "name": "Master of Laws (LL.M.)",
+        "duration": "1 Year",
+        "totalFees": 250000,
+        "seats": 50,
+        "exam": "CLAT",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 16.5,
+      "highest": 32,
+      "percentage": 97,
+      "topRecruiters": [
+        "Shardul Amarchand Mangaldas",
+        "Cyril Amarchand Mangaldas",
+        "Khaitan & Co",
+        "Trilegal",
+        "AZB & Partners",
+        "Luthra & Luthra"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 15,
+          "highest": 28
+        },
+        {
+          "year": 2023,
+          "avg": 16.1,
+          "highest": 30
+        },
+        {
+          "year": 2024,
+          "avg": 16.5,
+          "highest": 32
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Anjali Deshmukh",
+        "course": "B.A. LL.B. (Hons)",
+        "batch": "2024",
+        "rating": 5,
+        "categories": {
+          "academics": 5,
+          "accommodation": 3,
+          "placements": 5,
+          "infrastructure": 4,
+          "social": 4
+        },
+        "text": "The Harvard of the East for legal studies. Trimester system is highly demanding and keeps you working constantly, but the level of debate, case studies, and corporate networking is incomparable. Literally 100% of major law firms recruit here.",
+        "helpful": 45
+      }
+    ],
+    "quickStats": {
+      "rank": 1,
+      "acceptance": "0.9%",
+      "students": "1,100",
+      "campus": "23 Acres"
+    }
+  },
+  {
+    "id": "aiims-delhi",
+    "name": "All India Institute of Medical Sciences Delhi",
+    "slug": "aiims-delhi",
+    "location": "New Delhi, Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "type": "Medical",
+    "established": 1956,
+    "nirfRank": 1,
+    "rating": 5,
+    "reviewCount": 280,
+    "acceptanceRate": 0.05,
+    "totalStudents": 3200,
+    "campusSize": 115,
+    "about": "All India Institute of Medical Sciences New Delhi is a public medical research university and hospital based in New Delhi. Ranked consistently as the #1 medical college in India, AIIMS Delhi provides top-tier medical education, fully-funded clinical research hubs, and subsidised healthcare to millions of citizens.",
+    "accreditations": [
+      "MCI",
+      "UGC"
+    ],
+    "entranceExams": [
+      "NEET UG",
+      "NEET PG"
+    ],
+    "courses": [
+      {
+        "name": "Bachelor of Medicine & Bachelor of Surgery (MBBS)",
+        "duration": "5.5 Years",
+        "totalFees": 6850,
+        "seats": 125,
+        "exam": "NEET UG",
+        "popular": true
+      },
+      {
+        "name": "MD in General Medicine",
+        "duration": "3 Years",
+        "totalFees": 9000,
+        "seats": 40,
+        "exam": "NEET PG",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 18,
+      "highest": 35,
+      "percentage": 100,
+      "topRecruiters": [
+        "Medanta",
+        "Max Healthcare",
+        "Apollo Hospitals",
+        "Fortis",
+        "WHO",
+        "Johns Hopkins Residency"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 15,
+          "highest": 30
+        },
+        {
+          "year": 2023,
+          "avg": 16.5,
+          "highest": 32
+        },
+        {
+          "year": 2024,
+          "avg": 18,
+          "highest": 35
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Dr. Aarav Mehta",
+        "course": "MBBS",
+        "batch": "2023",
+        "rating": 5,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 5,
+          "infrastructure": 5,
+          "social": 4
+        },
+        "text": "Admissions are extremely tough, but once inside, the fees are practically free (Rs. 1,600 per year) and clinical exposure is massive. You treat cases that other medical students only read about in textbooks. Outstanding campus.",
+        "helpful": 64
+      }
+    ],
+    "quickStats": {
+      "rank": 1,
+      "acceptance": "0.05%",
+      "students": "3,200",
+      "campus": "115 Acres"
+    }
+  },
+  {
+    "id": "cmc-vellore",
+    "name": "Christian Medical College Vellore",
+    "slug": "cmc-vellore",
+    "location": "Vellore, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Vellore",
+    "type": "Medical",
+    "established": 1900,
+    "nirfRank": 3,
+    "rating": 4.8,
+    "reviewCount": 190,
+    "acceptanceRate": 0.2,
+    "totalStudents": 2400,
+    "campusSize": 200,
+    "about": "Christian Medical College Vellore, widely known as CMC Vellore, is a private, minority-run medical school and research institute in Vellore, Tamil Nadu. Established in 1900, it is famous for pioneering major medical milestones in India, including the first open-heart surgery and kidney transplants.",
+    "accreditations": [
+      "MCI",
+      "NABH"
+    ],
+    "entranceExams": [
+      "NEET UG",
+      "NEET PG"
+    ],
+    "courses": [
+      {
+        "name": "Bachelor of Medicine & Bachelor of Surgery (MBBS)",
+        "duration": "5.5 Years",
+        "totalFees": 220000,
+        "seats": 100,
+        "exam": "NEET UG",
+        "popular": true
+      },
+      {
+        "name": "B.Sc. in Nursing",
+        "duration": "4 Years",
+        "totalFees": 110000,
+        "seats": 80,
+        "exam": "NEET UG",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 12.4,
+      "highest": 24,
+      "percentage": 99,
+      "topRecruiters": [
+        "CMC Hospital Network",
+        "Apollo",
+        "St. Johns Hospital",
+        "Max Healthcare",
+        "Aster Medcity"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 10.5,
+          "highest": 20
+        },
+        {
+          "year": 2023,
+          "avg": 11.8,
+          "highest": 22
+        },
+        {
+          "year": 2024,
+          "avg": 12.4,
+          "highest": 24
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Dr. Sarah John",
+        "course": "MBBS",
+        "batch": "2022",
+        "rating": 4.8,
+        "categories": {
+          "academics": 5,
+          "accommodation": 5,
+          "placements": 5,
+          "infrastructure": 4,
+          "social": 4
+        },
+        "text": "Highly service-oriented medical training. CMC teaches you to treat patient care with deep empathy. Excellent hospital wards, highly dedicated faculty, and amazing community health initiatives.",
+        "helpful": 39
+      }
+    ],
+    "quickStats": {
+      "rank": 3,
+      "acceptance": "0.2%",
+      "students": "2,400",
+      "campus": "200 Acres"
+    }
+  },
+  {
+    "id": "st-stephens",
+    "name": "St. Stephen's College",
+    "slug": "st-stephens",
+    "location": "New Delhi, Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "type": "Arts",
+    "established": 1881,
+    "nirfRank": 14,
+    "rating": 4.6,
+    "reviewCount": 210,
+    "acceptanceRate": 1.5,
+    "totalStudents": 1400,
+    "campusSize": 30,
+    "about": "St. Stephen's College is a constituent college of the University of Delhi. Founded in 1881, it is one of the oldest and most prestigious institutions for liberal arts and science in India, producing prominent diplomats, politicians, and writers.",
+    "accreditations": [
+      "UGC",
+      "NAAC A+"
+    ],
+    "entranceExams": [
+      "CUET"
+    ],
+    "courses": [
+      {
+        "name": "B.A. (Honors) in Economics",
+        "duration": "3 Years",
+        "totalFees": 120000,
+        "seats": 100,
+        "exam": "CUET",
+        "popular": true
+      },
+      {
+        "name": "B.A. (Honors) in English",
+        "duration": "3 Years",
+        "totalFees": 120000,
+        "seats": 60,
+        "exam": "CUET",
+        "popular": false
+      },
+      {
+        "name": "B.Sc. (Honors) in Mathematics",
+        "duration": "3 Years",
+        "totalFees": 135000,
+        "seats": 50,
+        "exam": "CUET",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 9.8,
+      "highest": 29,
+      "percentage": 82,
+      "topRecruiters": [
+        "Bain & Company",
+        "McKinsey",
+        "Boston Consulting Group",
+        "Citi",
+        "EY",
+        "Dalberg"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 8.5,
+          "highest": 22
+        },
+        {
+          "year": 2023,
+          "avg": 9.2,
+          "highest": 25
+        },
+        {
+          "year": 2024,
+          "avg": 9.8,
+          "highest": 29
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Kabir Thapar",
+        "course": "B.A. Economics (Hons)",
+        "batch": "2024",
+        "rating": 4.6,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 5,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "St. Stephen's is a brand in itself. The discussion culture in the dining hall, the Stephanian heritage, and the top consulting roles available during placements make this place stellar.",
+        "helpful": 28
+      }
+    ],
+    "quickStats": {
+      "rank": 14,
+      "acceptance": "1.5%",
+      "students": "1,400",
+      "campus": "30 Acres"
+    }
+  },
+  {
+    "id": "miranda-house",
+    "name": "Miranda House",
+    "slug": "miranda-house",
+    "location": "New Delhi, Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "type": "Arts",
+    "established": 1948,
+    "nirfRank": 1,
+    "rating": 4.7,
+    "reviewCount": 240,
+    "acceptanceRate": 2,
+    "totalStudents": 4000,
+    "campusSize": 15,
+    "about": "Miranda House is a premier women's college of the University of Delhi. Established in 1948, it is renowned for top science and arts programs, consistently securing the #1 college spot under NIRF rankings for several consecutive years.",
+    "accreditations": [
+      "UGC",
+      "NAAC A++"
+    ],
+    "entranceExams": [
+      "CUET"
+    ],
+    "courses": [
+      {
+        "name": "B.A. (Honors) in Political Science",
+        "duration": "3 Years",
+        "totalFees": 45000,
+        "seats": 120,
+        "exam": "CUET",
+        "popular": true
+      },
+      {
+        "name": "B.Sc. (Honors) in Physics",
+        "duration": "3 Years",
+        "totalFees": 60000,
+        "seats": 86,
+        "exam": "CUET",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 6.8,
+      "highest": 21.5,
+      "percentage": 78,
+      "topRecruiters": [
+        "Deloitte",
+        "DE Shaw",
+        "PwC",
+        "Accenture",
+        "ICICI Bank"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 5.8,
+          "highest": 18
+        },
+        {
+          "year": 2023,
+          "avg": 6.2,
+          "highest": 19.5
+        },
+        {
+          "year": 2024,
+          "avg": 6.8,
+          "highest": 21.5
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Shristi Das",
+        "course": "B.A. Political Science",
+        "batch": "2023",
+        "rating": 4.7,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 4,
+          "infrastructure": 5,
+          "social": 5
+        },
+        "text": "Ranked #1 for a reason! Miranda House offers an highly empowering atmosphere for women. Excellent library, beautiful red-brick campus architecture, and very active political and debate societies.",
+        "helpful": 16
+      }
+    ],
+    "quickStats": {
+      "rank": 1,
+      "acceptance": "2.0%",
+      "students": "4,000",
+      "campus": "15 Acres"
+    }
+  },
+  {
+    "id": "iim-ahmedabad",
+    "name": "Indian Institute of Management Ahmedabad",
+    "slug": "iim-ahmedabad",
+    "location": "Ahmedabad, Gujarat",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "type": "Management",
+    "established": 1961,
+    "nirfRank": 1,
+    "rating": 5,
+    "reviewCount": 310,
+    "acceptanceRate": 0.15,
+    "totalStudents": 1050,
+    "campusSize": 102,
+    "about": "Indian Institute of Management Ahmedabad (IIMA) is a top-ranked business school situated in Ahmedabad, Gujarat. Established in 1961, it is world-renowned for its rigorous case-study method of teaching and for nurturing global corporate titans and stellar policy minds.",
+    "accreditations": [
+      "EQUIS",
+      "UGC"
+    ],
+    "entranceExams": [
+      "CAT",
+      "GMAT"
+    ],
+    "courses": [
+      {
+        "name": "Post Graduate Programme in Management (PGP)",
+        "duration": "2 Years",
+        "totalFees": 2500000,
+        "seats": 400,
+        "exam": "CAT",
+        "popular": true
+      },
+      {
+        "name": "Post Graduate Programme for Executives (PGPX)",
+        "duration": "1 Year",
+        "totalFees": 3300000,
+        "seats": 140,
+        "exam": "GMAT",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 34.3,
+      "highest": 115,
+      "percentage": 100,
+      "topRecruiters": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "McKinsey",
+        "Boston Consulting Group",
+        "Bain & Company",
+        "Tata Administrative Services"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 30.1,
+          "highest": 85
+        },
+        {
+          "year": 2023,
+          "avg": 32.8,
+          "highest": 100
+        },
+        {
+          "year": 2024,
+          "avg": 34.3,
+          "highest": 115
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Nikhil Rao",
+        "course": "PGP Management",
+        "batch": "2024",
+        "rating": 5,
+        "categories": {
+          "academics": 5,
+          "accommodation": 5,
+          "placements": 5,
+          "infrastructure": 5,
+          "social": 4
+        },
+        "text": "The Red Brick Campus of IIMA is the holy grail of management. Highly intensive case-study based curriculum. You sleep 4 hours a night due to projects, but it builds absolute business resilience. 100% top tier consulting roles.",
+        "helpful": 41
+      }
+    ],
+    "quickStats": {
+      "rank": 1,
+      "acceptance": "0.15%",
+      "students": "1,050",
+      "campus": "102 Acres"
+    }
+  },
+  {
+    "id": "iim-bangalore",
+    "name": "Indian Institute of Management Bangalore",
+    "slug": "iim-bangalore",
+    "location": "Bengaluru, Karnataka",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "type": "Management",
+    "established": 1973,
+    "nirfRank": 2,
+    "rating": 4.9,
+    "reviewCount": 280,
+    "acceptanceRate": 0.2,
+    "totalStudents": 1200,
+    "campusSize": 100,
+    "about": "Indian Institute of Management Bangalore (IIMB) is a leading public business school in Bengaluru, Karnataka. Renowned for its stone-architecture campus and powerful focus on tech entrepreneurship and corporate strategy, IIMB is a global benchmark for management studies.",
+    "accreditations": [
+      "AMBA",
+      "EQUIS",
+      "AACSB"
+    ],
+    "entranceExams": [
+      "CAT",
+      "GMAT"
+    ],
+    "courses": [
+      {
+        "name": "Post Graduate Programme in Management (PGP)",
+        "duration": "2 Years",
+        "totalFees": 2450000,
+        "seats": 430,
+        "exam": "CAT",
+        "popular": true
+      },
+      {
+        "name": "Post Graduate Programme in Enterprise Management",
+        "duration": "2 Years",
+        "totalFees": 2000000,
+        "seats": 80,
+        "exam": "CAT",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 33.5,
+      "highest": 110,
+      "percentage": 100,
+      "topRecruiters": [
+        "McKinsey",
+        "BCG",
+        "Bain & Company",
+        "Goldman Sachs",
+        "JP Morgan",
+        "Amazon",
+        "Microsoft"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 29.5,
+          "highest": 92
+        },
+        {
+          "year": 2023,
+          "avg": 31.9,
+          "highest": 105
+        },
+        {
+          "year": 2024,
+          "avg": 33.5,
+          "highest": 110
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Meghana S.",
+        "course": "PGP Management",
+        "batch": "2023",
+        "rating": 4.9,
+        "categories": {
+          "academics": 5,
+          "accommodation": 5,
+          "placements": 5,
+          "infrastructure": 5,
+          "social": 5
+        },
+        "text": "Stunning stone campus that has been the set of many films! Extreme focus on academic standards and analytics. Being in Bangalore, the tech and startup network you access is unparalleled.",
+        "helpful": 33
+      }
+    ],
+    "quickStats": {
+      "rank": 2,
+      "acceptance": "0.2%",
+      "students": "1,200",
+      "campus": "100 Acres"
+    }
+  },
+  {
+    "id": "nift-delhi",
+    "name": "National Institute of Fashion Technology Delhi",
+    "slug": "nift-delhi",
+    "location": "New Delhi, Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "type": "Design",
+    "established": 1986,
+    "nirfRank": 1,
+    "rating": 4.5,
+    "reviewCount": 160,
+    "acceptanceRate": 2.2,
+    "totalStudents": 1500,
+    "campusSize": 12,
+    "about": "National Institute of Fashion Technology Delhi is the premier fashion and apparel design institute in India. Established in 1986 in collaboration with FIT New York, NIFT Delhi serves as the creative design epicenter under the Ministry of Textiles.",
+    "accreditations": [
+      "Ministry of Textiles",
+      "UGC"
+    ],
+    "entranceExams": [
+      "NIFT Entrance Exam"
+    ],
+    "courses": [
+      {
+        "name": "Bachelor of Design (B.Des) in Fashion Design",
+        "duration": "4 Years",
+        "totalFees": 1250000,
+        "seats": 60,
+        "exam": "NIFT Entrance Exam",
+        "popular": true
+      },
+      {
+        "name": "Bachelor of Fashion Technology (B.FTech)",
+        "duration": "4 Years",
+        "totalFees": 1250000,
+        "seats": 40,
+        "exam": "NIFT Entrance Exam",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 6.8,
+      "highest": 18,
+      "percentage": 85,
+      "topRecruiters": [
+        "Aditya Birla Fashion",
+        "Reliance Retail",
+        "Fabindia",
+        "Arvind Lifestyle",
+        "Sabyasachi",
+        "Zara India"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 5.9,
+          "highest": 14
+        },
+        {
+          "year": 2023,
+          "avg": 6.4,
+          "highest": 16
+        },
+        {
+          "year": 2024,
+          "avg": 6.8,
+          "highest": 18
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Tanya Sen",
+        "course": "B.Des Fashion",
+        "batch": "2024",
+        "rating": 4.5,
+        "categories": {
+          "academics": 4,
+          "accommodation": 3,
+          "placements": 4,
+          "infrastructure": 5,
+          "social": 5
+        },
+        "text": "Incredible creative energy. The campus acts as a constant fashion ramp. Intense studio hours, jury weeks are sleepless but teach you deep presentation skills. Direct industry exposure to top Indian designers.",
+        "helpful": 12
+      }
+    ],
+    "quickStats": {
+      "rank": 1,
+      "acceptance": "2.2%",
+      "students": "1,500",
+      "campus": "12 Acres"
+    }
+  },
+  {
+    "id": "nid-ahmedabad",
+    "name": "National Institute of Design Ahmedabad",
+    "slug": "nid-ahmedabad",
+    "location": "Ahmedabad, Gujarat",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "type": "Design",
+    "established": 1961,
+    "nirfRank": 2,
+    "rating": 4.8,
+    "reviewCount": 140,
+    "acceptanceRate": 1.5,
+    "totalStudents": 900,
+    "campusSize": 20,
+    "about": "The National Institute of Design (NID) Ahmedabad is internationally acclaimed for industrial, communication, textile, and IT integrated design. Established in 1961 as an autonomous institute under the Ministry of Commerce and Industry, NID is globally recognized for product engineering and semantic design logic.",
+    "accreditations": [
+      "Institute of National Importance",
+      "AIU"
+    ],
+    "entranceExams": [
+      "NID DAT"
+    ],
+    "courses": [
+      {
+        "name": "Bachelor of Design (B.Des)",
+        "duration": "4 Years",
+        "totalFees": 1460000,
+        "seats": 125,
+        "exam": "NID DAT",
+        "popular": true
+      },
+      {
+        "name": "Master of Design (M.Des) in Product Design",
+        "duration": "2.5 Years",
+        "totalFees": 1050000,
+        "seats": 15,
+        "exam": "NID DAT",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 9.5,
+      "highest": 28,
+      "percentage": 90,
+      "topRecruiters": [
+        "Samsung Design India",
+        "Adobe",
+        "Microsoft Research",
+        "Tata Motors",
+        "Whirlpool",
+        "Logitech"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 8,
+          "highest": 22
+        },
+        {
+          "year": 2023,
+          "avg": 8.9,
+          "highest": 25
+        },
+        {
+          "year": 2024,
+          "avg": 9.5,
+          "highest": 28
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Vikram Rathore",
+        "course": "B.Des Product",
+        "batch": "2023",
+        "rating": 4.8,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 5,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "NID offers an unparalleled learning experience. It is fully hands-on; we barely have exams, only evaluations based on physical and digital portfolios. Collaboration with global tech giants is a standard part of product curriculum.",
+        "helpful": 26
+      }
+    ],
+    "quickStats": {
+      "rank": 2,
+      "acceptance": "1.5%",
+      "students": "900",
+      "campus": "20 Acres"
+    }
+  },
+  {
+    "id": "mica-ahmedabad",
+    "name": "MICA Ahmedabad",
+    "slug": "mica-ahmedabad",
+    "location": "Ahmedabad, Gujarat",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "type": "Management",
+    "established": 1991,
+    "nirfRank": 37,
+    "rating": 4.6,
+    "reviewCount": 180,
+    "acceptanceRate": 3.5,
+    "totalStudents": 480,
+    "campusSize": 19,
+    "about": "MICA Ahmedabad (formerly Mudra Institute of Communications, Ahmedabad) is the premier business school in India dedicated specifically to strategic marketing and communication. Established in 1991, its gorgeous green campus hosts creatives, marketers, and advertising strategy minds.",
+    "accreditations": [
+      "AICTE",
+      "NBA"
+    ],
+    "entranceExams": [
+      "CAT",
+      "XAT",
+      "MICAT"
+    ],
+    "courses": [
+      {
+        "name": "PGDM in Communications (PGDMC)",
+        "duration": "2 Years",
+        "totalFees": 2100000,
+        "seats": 180,
+        "exam": "MICAT",
+        "popular": true
+      }
+    ],
+    "placements": {
+      "avg": 20.1,
+      "highest": 36,
+      "percentage": 100,
+      "topRecruiters": [
+        "Google",
+        "L'Oreal",
+        "P&G",
+        "Coca-Cola",
+        "GroupM",
+        "Leo Burnett",
+        "FCB Ulka"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 17.1,
+          "highest": 30
+        },
+        {
+          "year": 2023,
+          "avg": 19,
+          "highest": 33
+        },
+        {
+          "year": 2024,
+          "avg": 20.1,
+          "highest": 36
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Anjali Bose",
+        "course": "PGDMC",
+        "batch": "2024",
+        "rating": 4.6,
+        "categories": {
+          "academics": 5,
+          "accommodation": 5,
+          "placements": 5,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "The Mecca of Marketing. MICA teaches you to marry analytical data with creative design thinking. If you are passionate about advertising, luxury brand management, or media research, there is no better place in Asia.",
+        "helpful": 19
+      }
+    ],
+    "quickStats": {
+      "rank": 37,
+      "acceptance": "3.5%",
+      "students": "480",
+      "campus": "19 Acres"
+    }
+  },
+  {
+    "id": "ashoka-university",
+    "name": "Ashoka University",
+    "slug": "ashoka-university",
+    "location": "Sonepat, Haryana",
+    "state": "Haryana",
+    "city": "Sonepat",
+    "type": "Arts",
+    "established": 2014,
+    "nirfRank": 88,
+    "rating": 4.6,
+    "reviewCount": 220,
+    "acceptanceRate": 9,
+    "totalStudents": 2600,
+    "campusSize": 25,
+    "about": "Ashoka University is a pioneer private liberal arts university located in Rajiv Gandhi Education City, Sonepat. Founded as a collaborative philanthropic initiative, Ashoka focuses heavily on critical thinking, writing, and interdisciplinary learning options.",
+    "accreditations": [
+      "UGC",
+      "AIU"
+    ],
+    "entranceExams": [
+      "AAT"
+    ],
+    "courses": [
+      {
+        "name": "B.A. (Honors) in Interdisciplinary Studies",
+        "duration": "3 Years",
+        "totalFees": 2900000,
+        "seats": 350,
+        "exam": "AAT",
+        "popular": true
+      },
+      {
+        "name": "B.Sc. (Honors) in Computer Science",
+        "duration": "3 Years",
+        "totalFees": 2900000,
+        "seats": 100,
+        "exam": "AAT",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 10.5,
+      "highest": 35,
+      "percentage": 88,
+      "topRecruiters": [
+        "McKinsey",
+        "BCG",
+        "Deloitte",
+        "Genpact",
+        "Hindustan Unilever",
+        "Teach for India"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 8.9,
+          "highest": 30
+        },
+        {
+          "year": 2023,
+          "avg": 9.8,
+          "highest": 33
+        },
+        {
+          "year": 2024,
+          "avg": 10.5,
+          "highest": 35
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Dhruv Sen",
+        "course": "B.A. Interdisciplinary",
+        "batch": "2024",
+        "rating": 4.6,
+        "categories": {
+          "academics": 5,
+          "accommodation": 5,
+          "placements": 4,
+          "infrastructure": 5,
+          "social": 5
+        },
+        "text": "Highly intellectual and open culture. Classes are built around discussion rather than rote memorization. The campus facilities are premium, and recruiters value the writing and presentation skills Ashoka students possess.",
+        "helpful": 14
+      }
+    ],
+    "quickStats": {
+      "rank": 88,
+      "acceptance": "9.0%",
+      "students": "2,600",
+      "campus": "25 Acres"
+    }
+  },
+  {
+    "id": "azim-premji-university",
+    "name": "Azim Premji University",
+    "slug": "azim-premji-university",
+    "location": "Bengaluru, Karnataka",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "type": "Arts",
+    "established": 2010,
+    "nirfRank": 105,
+    "rating": 4.5,
+    "reviewCount": 130,
+    "acceptanceRate": 11.2,
+    "totalStudents": 1800,
+    "campusSize": 80,
+    "about": "Azim Premji University was established in Bengaluru as a non-profit university in 2010. Sponsored by the Azim Premji Foundation, the university has a clear social mandate to facilitate education and development in underserved regions of India.",
+    "accreditations": [
+      "UGC",
+      "Azim Premji Foundation"
+    ],
+    "entranceExams": [
+      "APU Entrance Test"
+    ],
+    "courses": [
+      {
+        "name": "M.A. in Education",
+        "duration": "2 Years",
+        "totalFees": 200000,
+        "seats": 180,
+        "exam": "APU Entrance Test",
+        "popular": true
+      },
+      {
+        "name": "B.A. in Economics & Humanities",
+        "duration": "3 Years",
+        "totalFees": 350000,
+        "seats": 120,
+        "exam": "APU Entrance Test",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 5.4,
+      "highest": 12,
+      "percentage": 92,
+      "topRecruiters": [
+        "Azim Premji Foundation Network",
+        "Pratham",
+        "Teach For India",
+        "CRY",
+        "UNICEF India",
+        "BAIF"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 4.8,
+          "highest": 10
+        },
+        {
+          "year": 2023,
+          "avg": 5.1,
+          "highest": 11
+        },
+        {
+          "year": 2024,
+          "avg": 5.4,
+          "highest": 12
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Meera Nair",
+        "course": "M.A. Education",
+        "batch": "2023",
+        "rating": 4.5,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 4,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "A wonderful non-profit environment. If you want to build a career in NGOs, public policy, or rural educational upliftment, this is the prime choice in India. Financial aids are incredibly generous.",
+        "helpful": 22
+      }
+    ],
+    "quickStats": {
+      "rank": 105,
+      "acceptance": "11.2%",
+      "students": "1,800",
+      "campus": "80 Acres"
+    }
+  },
+  {
+    "id": "flame-university",
+    "name": "FLAME University",
+    "slug": "flame-university",
+    "location": "Pune, Maharashtra",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "type": "Arts",
+    "established": 2015,
+    "nirfRank": 96,
+    "rating": 4.2,
+    "reviewCount": 110,
+    "acceptanceRate": 14.5,
+    "totalStudents": 1500,
+    "campusSize": 60,
+    "about": "FLAME University was founded as an anchor institution for liberal education in India. Located in Pune, FLAME provides interdisciplinary courses combining design, arts, natural sciences, and media to build diverse portfolios.",
+    "accreditations": [
+      "UGC",
+      "NAAC A"
+    ],
+    "entranceExams": [
+      "FEAT",
+      "SAT"
+    ],
+    "courses": [
+      {
+        "name": "B.A. (Honors) in Liberal Education",
+        "duration": "3 Years",
+        "totalFees": 2400000,
+        "seats": 240,
+        "exam": "FEAT",
+        "popular": true
+      },
+      {
+        "name": "BBA (Communications & Design)",
+        "duration": "3 Years",
+        "totalFees": 2600000,
+        "seats": 120,
+        "exam": "FEAT",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 7.4,
+      "highest": 20.5,
+      "percentage": 82,
+      "topRecruiters": [
+        "Dentsu",
+        "HDFC Bank",
+        "EY",
+        "Deloitte",
+        "Naukri.com",
+        "Ogilvy"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 6.5,
+          "highest": 15
+        },
+        {
+          "year": 2023,
+          "avg": 7.1,
+          "highest": 18
+        },
+        {
+          "year": 2024,
+          "avg": 7.4,
+          "highest": 20.5
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Neil D.",
+        "course": "B.A. Liberal Ed",
+        "batch": "2024",
+        "rating": 4.2,
+        "categories": {
+          "academics": 4,
+          "accommodation": 5,
+          "placements": 4,
+          "infrastructure": 5,
+          "social": 4
+        },
+        "text": "The sports infrastructure here is premium - 18-hole golf course inside campus! Very supportive environment for exploring subjects before picking majors. Great corporate connections for media roles.",
+        "helpful": 8
+      }
+    ],
+    "quickStats": {
+      "rank": 96,
+      "acceptance": "14.5%",
+      "students": "1,500",
+      "campus": "60 Acres"
+    }
+  },
+  {
+    "id": "shiv-nadar-university",
+    "name": "Shiv Nadar University",
+    "slug": "shiv-nadar-university",
+    "location": "Greater Noida, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Greater Noida",
+    "type": "Engineering",
+    "established": 2011,
+    "nirfRank": 62,
+    "rating": 4.4,
+    "reviewCount": 190,
+    "acceptanceRate": 8,
+    "totalStudents": 3400,
+    "campusSize": 286,
+    "about": "Shiv Nadar University is a private research-backed university founded by the HCL Foundation. Nestled in Greater Noida, the university emphasizes advanced research programs and engineering sciences.",
+    "accreditations": [
+      "UGC",
+      "NAAC A"
+    ],
+    "entranceExams": [
+      "SNUSAT",
+      "JEE Main"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "totalFees": 1400000,
+        "seats": 150,
+        "exam": "SNUSAT",
+        "popular": true
+      },
+      {
+        "name": "B.Sc. (Honors) in Economics",
+        "duration": "3 Years",
+        "totalFees": 900000,
+        "seats": 60,
+        "exam": "SNUSAT",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 11.3,
+      "highest": 58,
+      "percentage": 88,
+      "topRecruiters": [
+        "HCL Technologies",
+        "Microsoft",
+        "Goldman Sachs",
+        "Amazon",
+        "Deloitte",
+        "L&T"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 9.5,
+          "highest": 42
+        },
+        {
+          "year": 2023,
+          "avg": 10.8,
+          "highest": 50
+        },
+        {
+          "year": 2024,
+          "avg": 11.3,
+          "highest": 58
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Ayush Gupta",
+        "course": "B.Tech CSE",
+        "batch": "2024",
+        "rating": 4.4,
+        "categories": {
+          "academics": 4,
+          "accommodation": 5,
+          "placements": 4,
+          "infrastructure": 5,
+          "social": 4
+        },
+        "text": "Highly equipped labs. Shiv Nadar provides huge funding for student research projects (OUR Program). The campus is isolated but extremely peaceful and self-sufficient.",
+        "helpful": 16
+      }
+    ],
+    "quickStats": {
+      "rank": 62,
+      "acceptance": "8.0%",
+      "students": "3,400",
+      "campus": "286 Acres"
+    }
+  },
+  {
+    "id": "op-jindal-university",
+    "name": "O.P. Jindal Global University",
+    "slug": "op-jindal-university",
+    "location": "Sonepat, Haryana",
+    "state": "Haryana",
+    "city": "Sonepat",
+    "type": "Law",
+    "established": 2009,
+    "nirfRank": 70,
+    "rating": 4.5,
+    "reviewCount": 210,
+    "acceptanceRate": 10.5,
+    "totalStudents": 8500,
+    "campusSize": 80,
+    "about": "O.P. Jindal Global University is a philanthropic private university established in 2009. Recognized as an Institution of Eminence, its Jindal Global Law School (JGLS) is ranked among the finest legal colleges globally.",
+    "accreditations": [
+      "Institute of Eminence",
+      "BCI",
+      "UGC"
+    ],
+    "entranceExams": [
+      "LSAT India",
+      "JSAT"
+    ],
+    "courses": [
+      {
+        "name": "B.A. LL.B. (Honors)",
+        "duration": "5 Years",
+        "totalFees": 3125000,
+        "seats": 400,
+        "exam": "LSAT India",
+        "popular": true
+      },
+      {
+        "name": "B.A. (Honors) in International Affairs",
+        "duration": "3 Years",
+        "totalFees": 1050000,
+        "seats": 120,
+        "exam": "JSAT",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 11.8,
+      "highest": 21,
+      "percentage": 90,
+      "topRecruiters": [
+        "Khaitan & Co",
+        "Trilegal",
+        "Cyril Amarchand Mangaldas",
+        "AZB & Partners",
+        "Shardul Amarchand Mangaldas"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 9.5,
+          "highest": 18
+        },
+        {
+          "year": 2023,
+          "avg": 10.8,
+          "highest": 20
+        },
+        {
+          "year": 2024,
+          "avg": 11.8,
+          "highest": 21
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Karan Malhotra",
+        "course": "B.A. LL.B. (Hons)",
+        "batch": "2024",
+        "rating": 4.5,
+        "categories": {
+          "academics": 5,
+          "accommodation": 5,
+          "placements": 4,
+          "infrastructure": 5,
+          "social": 5
+        },
+        "text": "The law school is premium. Extremely global faculty with top qualifications. The campus feels like a high-end corporate park. Fees are very high, but if you want global legal exposure, it is worth the cost.",
+        "helpful": 14
+      }
+    ],
+    "quickStats": {
+      "rank": 70,
+      "acceptance": "10.5%",
+      "students": "8,500",
+      "campus": "80 Acres"
+    }
+  },
+  {
+    "id": "nit-warangal",
+    "name": "National Institute of Technology Warangal",
+    "slug": "nit-warangal",
+    "location": "Warangal, Telangana",
+    "state": "Telangana",
+    "city": "Warangal",
+    "type": "Engineering",
+    "established": 1959,
+    "nirfRank": 21,
+    "rating": 4.4,
+    "reviewCount": 290,
+    "acceptanceRate": 2.1,
+    "totalStudents": 6200,
+    "campusSize": 256,
+    "about": "Established in 1959 as the first regional engineering college in India, NIT Warangal is globally recognized for its highly selective admissions, demanding technical programs, and outstanding core engineering research. The campus has world-class infrastructure and top-tier computing facilities.",
+    "accreditations": [
+      "NBA",
+      "AICTE"
+    ],
+    "entranceExams": [
+      "JEE Main",
+      "GATE"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "totalFees": 550000,
+        "seats": 120,
+        "exam": "JEE Main",
+        "popular": true
+      },
+      {
+        "name": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "totalFees": 550000,
+        "seats": 100,
+        "exam": "JEE Main",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 13.6,
+      "highest": 48.5,
+      "percentage": 89,
+      "topRecruiters": [
+        "Microsoft",
+        "Amazon",
+        "Goldman Sachs",
+        "TCS",
+        "Qualcomm"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 11.8,
+          "highest": 42
+        },
+        {
+          "year": 2023,
+          "avg": 12.9,
+          "highest": 45
+        },
+        {
+          "year": 2024,
+          "avg": 13.6,
+          "highest": 48.5
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Srikanth Reddy",
+        "course": "B.Tech CSE",
+        "batch": "2024",
+        "rating": 4.5,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 5,
+          "infrastructure": 4,
+          "social": 4
+        },
+        "text": "Academic rigour is very high. Campus culture is super tech-oriented and placements are exceptional for the CSE branch.",
+        "helpful": 12
+      }
+    ],
+    "quickStats": {
+      "rank": 21,
+      "acceptance": "2.1%",
+      "students": "6,200",
+      "campus": "256 Acres"
+    }
+  },
+  {
+    "id": "nit-surathkal",
+    "name": "National Institute of Technology Karnataka, Surathkal",
+    "slug": "nit-surathkal",
+    "location": "Mangaluru, Karnataka",
+    "state": "Karnataka",
+    "city": "Mangaluru",
+    "type": "Engineering",
+    "established": 1960,
+    "nirfRank": 12,
+    "rating": 4.6,
+    "reviewCount": 310,
+    "acceptanceRate": 1.9,
+    "totalStudents": 6000,
+    "campusSize": 295,
+    "about": "NITK Surathkal is a premier public engineering institution situated on the shore of the Arabian Sea. Renowned for its private beach, incredible marine research facilities, and excellent record of students entering top tier tech organizations.",
+    "accreditations": [
+      "NBA",
+      "AICTE",
+      "UGC"
+    ],
+    "entranceExams": [
+      "JEE Main",
+      "GATE"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "totalFees": 560000,
+        "seats": 115,
+        "exam": "JEE Main",
+        "popular": true
+      },
+      {
+        "name": "B.Tech in Marine Engineering",
+        "duration": "4 Years",
+        "totalFees": 560000,
+        "seats": 40,
+        "exam": "JEE Main",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 15.2,
+      "highest": 54,
+      "percentage": 91,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Uber",
+        "Oracle",
+        "Cisco"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 13,
+          "highest": 45
+        },
+        {
+          "year": 2023,
+          "avg": 14.5,
+          "highest": 50
+        },
+        {
+          "year": 2024,
+          "avg": 15.2,
+          "highest": 54
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Nihal Shetty",
+        "course": "B.Tech CSE",
+        "batch": "2023",
+        "rating": 4.7,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 5,
+          "infrastructure": 5,
+          "social": 5
+        },
+        "text": "Having our own private beach is the highlight of college life. Beyond the fun, the placement statistics are absolutely outstanding.",
+        "helpful": 28
+      }
+    ],
+    "quickStats": {
+      "rank": 12,
+      "acceptance": "1.9%",
+      "students": "6,000",
+      "campus": "295 Acres"
+    }
+  },
+  {
+    "id": "nit-calicut",
+    "name": "National Institute of Technology Calicut",
+    "slug": "nit-calicut",
+    "location": "Kozhikode, Kerala",
+    "state": "Kerala",
+    "city": "Kozhikode",
+    "type": "Engineering",
+    "established": 1961,
+    "nirfRank": 23,
+    "rating": 4.3,
+    "reviewCount": 240,
+    "acceptanceRate": 2.3,
+    "totalStudents": 5800,
+    "campusSize": 290,
+    "about": "National Institute of Technology Calicut (NITC) is a prestigious technical university located in the foothills of the Western Ghats in Kerala. It offers world-class lab spaces and comprehensive engineering degrees.",
+    "accreditations": [
+      "NBA",
+      "AICTE"
+    ],
+    "entranceExams": [
+      "JEE Main",
+      "GATE"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "totalFees": 540000,
+        "seats": 130,
+        "exam": "JEE Main",
+        "popular": true
+      },
+      {
+        "name": "B.Tech in Civil Engineering",
+        "duration": "4 Years",
+        "totalFees": 540000,
+        "seats": 90,
+        "exam": "JEE Main",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 11.5,
+      "highest": 40.2,
+      "percentage": 85,
+      "topRecruiters": [
+        "TCS",
+        "Infosys",
+        "Intel",
+        "Qualcomm",
+        "Deloitte"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 9.8,
+          "highest": 34
+        },
+        {
+          "year": 2023,
+          "avg": 10.9,
+          "highest": 38
+        },
+        {
+          "year": 2024,
+          "avg": 11.5,
+          "highest": 40.2
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Anjali Nair",
+        "course": "B.Tech CSE",
+        "batch": "2024",
+        "rating": 4.4,
+        "categories": {
+          "academics": 4,
+          "accommodation": 3,
+          "placements": 4,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "Lush green campus. Very peaceful campus environment. Placements are stable and campus host multiple national level tech festivals.",
+        "helpful": 10
+      }
+    ],
+    "quickStats": {
+      "rank": 23,
+      "acceptance": "2.3%",
+      "students": "5,800",
+      "campus": "290 Acres"
+    }
+  },
+  {
+    "id": "iiit-hyderabad",
+    "name": "International Institute of Information Technology Hyderabad",
+    "slug": "iiit-hyderabad",
+    "location": "Hyderabad, Telangana",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "type": "Engineering",
+    "established": 1998,
+    "nirfRank": 55,
+    "rating": 4.8,
+    "reviewCount": 350,
+    "acceptanceRate": 0.5,
+    "totalStudents": 2000,
+    "campusSize": 66,
+    "about": "IIIT Hyderabad is a private deemed university renowned for its rigorous research curriculum, global contributions in Computer Vision, and highly selective admissions. Its coding culture is considered the finest in India, frequently producing top ACM-ICPC regional and global teams.",
+    "accreditations": [
+      "AICTE",
+      "UGC"
+    ],
+    "entranceExams": [
+      "JEE Main",
+      "UGEE",
+      "DASA"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech in Computer Science & Engineering",
+        "duration": "4 Years",
+        "totalFees": 1600000,
+        "seats": 100,
+        "exam": "JEE Main",
+        "popular": true
+      },
+      {
+        "name": "Dual Degree (B.Tech + MS) in CSE",
+        "duration": "5 Years",
+        "totalFees": 2000000,
+        "seats": 50,
+        "exam": "UGEE",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 30.2,
+      "highest": 102.5,
+      "percentage": 98,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Uber",
+        "Rubrik",
+        "CodeNation",
+        "Apple"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 26.5,
+          "highest": 80
+        },
+        {
+          "year": 2023,
+          "avg": 28.9,
+          "highest": 95
+        },
+        {
+          "year": 2024,
+          "avg": 30.2,
+          "highest": 102.5
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Rohan Gupta",
+        "course": "B.Tech CSE",
+        "batch": "2024",
+        "rating": 4.9,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 5,
+          "infrastructure": 5,
+          "social": 3
+        },
+        "text": "Academic load is massive, but the coding culture is elite. If you want to excel in algorithms or deep artificial intelligence, there is no place better in the country.",
+        "helpful": 34
+      }
+    ],
+    "quickStats": {
+      "rank": 55,
+      "acceptance": "0.5%",
+      "students": "2,000",
+      "campus": "66 Acres"
+    }
+  },
+  {
+    "id": "dtu-delhi",
+    "name": "Delhi Technological University",
+    "slug": "dtu-delhi",
+    "location": "New Delhi, Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "type": "Engineering",
+    "established": 1941,
+    "nirfRank": 29,
+    "rating": 4.5,
+    "reviewCount": 420,
+    "acceptanceRate": 2.8,
+    "totalStudents": 12000,
+    "campusSize": 164,
+    "about": "Delhi Technological University (formerly Delhi College of Engineering) is a premier public university in Rohini, Delhi. Renowned for its rich industrial legacy, outstanding placements, and extremely vibrant student-driven tech teams.",
+    "accreditations": [
+      "AICTE",
+      "UGC"
+    ],
+    "entranceExams": [
+      "JEE Main"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech in Computer Engineering",
+        "duration": "4 Years",
+        "totalFees": 920000,
+        "seats": 360,
+        "exam": "JEE Main",
+        "popular": true
+      },
+      {
+        "name": "B.Tech in Software Engineering",
+        "duration": "4 Years",
+        "totalFees": 920000,
+        "seats": 120,
+        "exam": "JEE Main",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 16.8,
+      "highest": 64.2,
+      "percentage": 90,
+      "topRecruiters": [
+        "Google",
+        "Amazon",
+        "Uber",
+        "Paytm",
+        "McKinsey",
+        "Goldman Sachs"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 14.5,
+          "highest": 55
+        },
+        {
+          "year": 2023,
+          "avg": 15.9,
+          "highest": 60
+        },
+        {
+          "year": 2024,
+          "avg": 16.8,
+          "highest": 64.2
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Ayush Singhal",
+        "course": "B.Tech CSE",
+        "batch": "2024",
+        "rating": 4.6,
+        "categories": {
+          "academics": 4,
+          "accommodation": 3,
+          "placements": 5,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "DTU is legendary for its alumni network and tech teams (like Defy Gravity). Placement season brings practically every major company to campus.",
+        "helpful": 40
+      }
+    ],
+    "quickStats": {
+      "rank": 29,
+      "acceptance": "2.8%",
+      "students": "12,000",
+      "campus": "164 Acres"
+    }
+  },
+  {
+    "id": "coep-pune",
+    "name": "College of Engineering Pune",
+    "slug": "coep-pune",
+    "location": "Pune, Maharashtra",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "type": "Engineering",
+    "established": 1854,
+    "nirfRank": 73,
+    "rating": 4.4,
+    "reviewCount": 260,
+    "acceptanceRate": 1.5,
+    "totalStudents": 3200,
+    "campusSize": 36,
+    "about": "Established in 1854, COEP Pune is the third oldest engineering college in Asia. Located in Pune (the 'Oxford of the East'), it has a rich history of outstanding engineering research, active student clubs, and close ties to Maharashtra's automotive and manufacturing corridors.",
+    "accreditations": [
+      "AICTE",
+      "NBA"
+    ],
+    "entranceExams": [
+      "MHT CET",
+      "JEE Main"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech in Computer Engineering",
+        "duration": "4 Years",
+        "totalFees": 360000,
+        "seats": 120,
+        "exam": "MHT CET",
+        "popular": true
+      },
+      {
+        "name": "B.Tech in Mechanical Engineering",
+        "duration": "4 Years",
+        "totalFees": 360000,
+        "seats": 120,
+        "exam": "MHT CET",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 9.8,
+      "highest": 36.5,
+      "percentage": 86,
+      "topRecruiters": [
+        "Tata Motors",
+        "Bajaj Auto",
+        "Microsoft",
+        "Goldman Sachs",
+        "L&T"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 8.5,
+          "highest": 30
+        },
+        {
+          "year": 2023,
+          "avg": 9.2,
+          "highest": 33.5
+        },
+        {
+          "year": 2024,
+          "avg": 9.8,
+          "highest": 36.5
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Tanmay Kulkarni",
+        "course": "B.Tech Computer Engg",
+        "batch": "2023",
+        "rating": 4.5,
+        "categories": {
+          "academics": 5,
+          "accommodation": 3,
+          "placements": 4,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "COEP has unmatched heritage. Being in the heart of Pune is incredibly helpful for internships and core manufacturing job networks.",
+        "helpful": 15
+      }
+    ],
+    "quickStats": {
+      "rank": 73,
+      "acceptance": "1.5%",
+      "students": "3,200",
+      "campus": "36 Acres"
+    }
+  },
+  {
+    "id": "psg-tech",
+    "name": "PSG College of Technology",
+    "slug": "psg-tech",
+    "location": "Coimbatore, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Coimbatore",
+    "type": "Engineering",
+    "established": 1951,
+    "nirfRank": 63,
+    "rating": 4.3,
+    "reviewCount": 210,
+    "acceptanceRate": 3.2,
+    "totalStudents": 8500,
+    "campusSize": 45,
+    "about": "PSG College of Technology is a government-aided private engineering college located in Peelamedu, Coimbatore. Renowned for its highly proactive industry-institute collaboration, standard modern laboratories, and strong textile & manufacturing networks.",
+    "accreditations": [
+      "NBA",
+      "AICTE"
+    ],
+    "entranceExams": [
+      "TNEA"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech in Information Technology",
+        "duration": "4 Years",
+        "totalFees": 400000,
+        "seats": 60,
+        "exam": "TNEA",
+        "popular": true
+      },
+      {
+        "name": "B.E. in Textile Technology",
+        "duration": "4 Years",
+        "totalFees": 350000,
+        "seats": 60,
+        "exam": "TNEA",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 8.4,
+      "highest": 28,
+      "percentage": 84,
+      "topRecruiters": [
+        "Cognizant",
+        "Wipro",
+        "L&T",
+        "Caterpillar",
+        "Qualcomm"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 7.5,
+          "highest": 22
+        },
+        {
+          "year": 2023,
+          "avg": 8,
+          "highest": 25
+        },
+        {
+          "year": 2024,
+          "avg": 8.4,
+          "highest": 28
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Vignesh Kumar",
+        "course": "B.E. Textile",
+        "batch": "2024",
+        "rating": 4.2,
+        "categories": {
+          "academics": 4,
+          "accommodation": 3,
+          "placements": 4,
+          "infrastructure": 4,
+          "social": 4
+        },
+        "text": "PSG is an institution with unparalleled focus on industry placements. Highly rigorous labs.",
+        "helpful": 9
+      }
+    ],
+    "quickStats": {
+      "rank": 63,
+      "acceptance": "3.2%",
+      "students": "8,500",
+      "campus": "45 Acres"
+    }
+  },
+  {
+    "id": "thapar-university",
+    "name": "Thapar Institute of Engineering and Technology",
+    "slug": "thapar-university",
+    "location": "Patiala, Punjab",
+    "state": "Punjab",
+    "city": "Patiala",
+    "type": "Engineering",
+    "established": 1956,
+    "nirfRank": 40,
+    "rating": 4.3,
+    "reviewCount": 310,
+    "acceptanceRate": 6.8,
+    "totalStudents": 9000,
+    "campusSize": 250,
+    "about": "Thapar Institute of Engineering and Technology is a premier private deemed university in Patiala, Punjab. Renowned for its world-class modular hostel blocks, comprehensive industry research, and massive core software placements.",
+    "accreditations": [
+      "NAAC A+",
+      "AICTE"
+    ],
+    "entranceExams": [
+      "JEE Main",
+      "Thapar Entrance Test"
+    ],
+    "courses": [
+      {
+        "name": "B.E. in Computer Engineering",
+        "duration": "4 Years",
+        "totalFees": 1800000,
+        "seats": 600,
+        "exam": "JEE Main",
+        "popular": true
+      },
+      {
+        "name": "B.E. in Chemical Engineering",
+        "duration": "4 Years",
+        "totalFees": 1400000,
+        "seats": 60,
+        "exam": "JEE Main",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 9.5,
+      "highest": 40,
+      "percentage": 88,
+      "topRecruiters": [
+        "Microsoft",
+        "JP Morgan",
+        "Deloitte",
+        "Infosys",
+        "IBM"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 8.2,
+          "highest": 32
+        },
+        {
+          "year": 2023,
+          "avg": 8.9,
+          "highest": 36.5
+        },
+        {
+          "year": 2024,
+          "avg": 9.5,
+          "highest": 40
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Manpreet Singh",
+        "course": "B.E. Computer Engg",
+        "batch": "2024",
+        "rating": 4.4,
+        "categories": {
+          "academics": 4,
+          "accommodation": 5,
+          "placements": 4,
+          "infrastructure": 5,
+          "social": 5
+        },
+        "text": "The hosteling facilities at Thapar are legendary. It has a beautiful campus layout and placements are robust, especially for software courses.",
+        "helpful": 18
+      }
+    ],
+    "quickStats": {
+      "rank": 40,
+      "acceptance": "6.8%",
+      "students": "9,000",
+      "campus": "250 Acres"
+    }
+  },
+  {
+    "id": "kmc-manipal",
+    "name": "Kasturba Medical College Manipal",
+    "slug": "kmc-manipal",
+    "location": "Manipal, Karnataka",
+    "state": "Karnataka",
+    "city": "Manipal",
+    "type": "Medical",
+    "established": 1953,
+    "nirfRank": 9,
+    "rating": 4.7,
+    "reviewCount": 180,
+    "acceptanceRate": 0.8,
+    "totalStudents": 1500,
+    "campusSize": 200,
+    "about": "Kasturba Medical College (KMC) Manipal is one of the premier private medical institutions in India. Established in 1953, it is world-renowned for its outstanding diagnostic laboratories, extensive clinical practice wards, and premium international internship exchange options.",
+    "accreditations": [
+      "MCI",
+      "NABH"
+    ],
+    "entranceExams": [
+      "NEET UG",
+      "NEET PG"
+    ],
+    "courses": [
+      {
+        "name": "MBBS",
+        "duration": "5.5 Years",
+        "totalFees": 8100000,
+        "seats": 250,
+        "exam": "NEET UG",
+        "popular": true
+      }
+    ],
+    "placements": {
+      "avg": 14.5,
+      "highest": 28,
+      "percentage": 98,
+      "topRecruiters": [
+        "KMC Hospital Network",
+        "Apollo Hospitals",
+        "Max Healthcare",
+        "WHO"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 12,
+          "highest": 22
+        },
+        {
+          "year": 2023,
+          "avg": 13.5,
+          "highest": 25
+        },
+        {
+          "year": 2024,
+          "avg": 14.5,
+          "highest": 28
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Dr. Kritika Sen",
+        "course": "MBBS",
+        "batch": "2023",
+        "rating": 4.8,
+        "categories": {
+          "academics": 5,
+          "accommodation": 5,
+          "placements": 5,
+          "infrastructure": 5,
+          "social": 5
+        },
+        "text": "Exceptional clinical diagnostics environment. You get to consult on complex clinical issues early in your coursework.",
+        "helpful": 24
+      }
+    ],
+    "quickStats": {
+      "rank": 9,
+      "acceptance": "0.8%",
+      "students": "1,500",
+      "campus": "200 Acres"
+    }
+  },
+  {
+    "id": "jipmer-puducherry",
+    "name": "Jawaharlal Institute of Postgraduate Medical Education and Research",
+    "slug": "jipmer-puducherry",
+    "location": "Puducherry",
+    "state": "Puducherry",
+    "city": "Puducherry",
+    "type": "Medical",
+    "established": 1956,
+    "nirfRank": 5,
+    "rating": 4.9,
+    "reviewCount": 160,
+    "acceptanceRate": 0.1,
+    "totalStudents": 2200,
+    "campusSize": 195,
+    "about": "JIPMER is a premier national public medical school and hospital in Puducherry. As an Institution of National Importance, JIPMER offers heavily subsidized medical education with highly intensive clinical workloads and premier residency networks.",
+    "accreditations": [
+      "MCI",
+      "UGC"
+    ],
+    "entranceExams": [
+      "NEET UG",
+      "NEET PG"
+    ],
+    "courses": [
+      {
+        "name": "MBBS",
+        "duration": "5.5 Years",
+        "totalFees": 35000,
+        "seats": 150,
+        "exam": "NEET UG",
+        "popular": true
+      }
+    ],
+    "placements": {
+      "avg": 16.2,
+      "highest": 30,
+      "percentage": 100,
+      "topRecruiters": [
+        "JIPMER Residency",
+        "Apollo",
+        "Max",
+        "Fortis"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 14,
+          "highest": 25
+        },
+        {
+          "year": 2023,
+          "avg": 15.2,
+          "highest": 28
+        },
+        {
+          "year": 2024,
+          "avg": 16.2,
+          "highest": 30
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Dr. Vivek Nair",
+        "course": "MBBS",
+        "batch": "2024",
+        "rating": 4.9,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 5,
+          "infrastructure": 5,
+          "social": 4
+        },
+        "text": "Highly rigorous academic schedule. Excellent diagnostic lab infrastructure, and incredibly massive patient footfall.",
+        "helpful": 32
+      }
+    ],
+    "quickStats": {
+      "rank": 5,
+      "acceptance": "0.1%",
+      "students": "2,200",
+      "campus": "195 Acres"
+    }
+  },
+  {
+    "id": "kmc-mangalore",
+    "name": "Kasturba Medical College Mangalore",
+    "slug": "kmc-mangalore",
+    "location": "Mangaluru, Karnataka",
+    "state": "Karnataka",
+    "city": "Mangaluru",
+    "type": "Medical",
+    "established": 1955,
+    "nirfRank": 30,
+    "rating": 4.5,
+    "reviewCount": 140,
+    "acceptanceRate": 1.2,
+    "totalStudents": 1300,
+    "campusSize": 120,
+    "about": "Kasturba Medical College Mangalore is a constituent college of MAHE. Highly praised for its excellent clinical facilities and strong corporate integrations across coastal Karnataka.",
+    "accreditations": [
+      "MCI",
+      "NABH"
+    ],
+    "entranceExams": [
+      "NEET UG"
+    ],
+    "courses": [
+      {
+        "name": "MBBS",
+        "duration": "5.5 Years",
+        "totalFees": 7900000,
+        "seats": 250,
+        "exam": "NEET UG",
+        "popular": true
+      }
+    ],
+    "placements": {
+      "avg": 12.8,
+      "highest": 22,
+      "percentage": 97,
+      "topRecruiters": [
+        "KMC Hospital Group",
+        "Max",
+        "Apollo"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 10.5,
+          "highest": 18
+        },
+        {
+          "year": 2023,
+          "avg": 11.9,
+          "highest": 20
+        },
+        {
+          "year": 2024,
+          "avg": 12.8,
+          "highest": 22
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Dr. Pranav Hegde",
+        "course": "MBBS",
+        "batch": "2023",
+        "rating": 4.6,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 4,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "Mangalore offers premium clinical opportunities. KMC has outstanding diagnostic environments.",
+        "helpful": 14
+      }
+    ],
+    "quickStats": {
+      "rank": 30,
+      "acceptance": "1.2%",
+      "students": "1,300",
+      "campus": "120 Acres"
+    }
+  },
+  {
+    "id": "sri-ramachandra",
+    "name": "Sri Ramachandra Institute of Higher Education and Research",
+    "slug": "sri-ramachandra",
+    "location": "Chennai, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "type": "Medical",
+    "established": 1985,
+    "nirfRank": 21,
+    "rating": 4.4,
+    "reviewCount": 190,
+    "acceptanceRate": 2.5,
+    "totalStudents": 6500,
+    "campusSize": 150,
+    "about": "Sri Ramachandra Medical College is a premier private university in Chennai. It offers state of the art hospital services and highly integrated health sciences programs.",
+    "accreditations": [
+      "MCI",
+      "NABH",
+      "JCI"
+    ],
+    "entranceExams": [
+      "NEET UG"
+    ],
+    "courses": [
+      {
+        "name": "MBBS",
+        "duration": "5.5 Years",
+        "totalFees": 11250000,
+        "seats": 250,
+        "exam": "NEET UG",
+        "popular": true
+      }
+    ],
+    "placements": {
+      "avg": 10.5,
+      "highest": 18.5,
+      "percentage": 95,
+      "topRecruiters": [
+        "Sri Ramachandra Hospital Network",
+        "Apollo",
+        "Fortis"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 9,
+          "highest": 15
+        },
+        {
+          "year": 2023,
+          "avg": 9.8,
+          "highest": 16.8
+        },
+        {
+          "year": 2024,
+          "avg": 10.5,
+          "highest": 18.5
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Dr. Vignesh Balaji",
+        "course": "MBBS",
+        "batch": "2024",
+        "rating": 4.5,
+        "categories": {
+          "academics": 4,
+          "accommodation": 4,
+          "placements": 4,
+          "infrastructure": 5,
+          "social": 4
+        },
+        "text": "Stellar campus layout and outstanding diagnostic infrastructure. Hospital block is very vast.",
+        "helpful": 10
+      }
+    ],
+    "quickStats": {
+      "rank": 21,
+      "acceptance": "2.5%",
+      "students": "6,500",
+      "campus": "150 Acres"
+    }
+  },
+  {
+    "id": "iim-calcutta",
+    "name": "Indian Institute of Management Calcutta",
+    "slug": "iim-calcutta",
+    "location": "Kolkata, West Bengal",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "type": "Management",
+    "established": 1961,
+    "nirfRank": 4,
+    "rating": 4.9,
+    "reviewCount": 290,
+    "acceptanceRate": 0.18,
+    "totalStudents": 950,
+    "campusSize": 135,
+    "about": "IIM Calcutta (IIMC) is the first IIM in India. Renowned for its outstanding quantitative finance coursework, classic lakeside campus ('Joka'), and elite placement records in global investment banks.",
+    "accreditations": [
+      "AMBA",
+      "EQUIS",
+      "AACSB"
+    ],
+    "entranceExams": [
+      "CAT"
+    ],
+    "courses": [
+      {
+        "name": "Post Graduate Programme in Management (PGP)",
+        "duration": "2 Years",
+        "totalFees": 2400000,
+        "seats": 460,
+        "exam": "CAT",
+        "popular": true
+      }
+    ],
+    "placements": {
+      "avg": 35.2,
+      "highest": 120,
+      "percentage": 100,
+      "topRecruiters": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "McKinsey",
+        "BCG",
+        "Bain",
+        "J.P. Morgan"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 31,
+          "highest": 90
+        },
+        {
+          "year": 2023,
+          "avg": 33.5,
+          "highest": 110
+        },
+        {
+          "year": 2024,
+          "avg": 35.2,
+          "highest": 120
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Animesh Roy",
+        "course": "PGP Management",
+        "batch": "2024",
+        "rating": 5,
+        "categories": {
+          "academics": 5,
+          "accommodation": 5,
+          "placements": 5,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "Joka is beautiful with its seven lakes. If you want to do finance or consulting, this is the holy grail.",
+        "helpful": 29
+      }
+    ],
+    "quickStats": {
+      "rank": 4,
+      "acceptance": "0.18%",
+      "students": "950",
+      "campus": "135 Acres"
+    }
+  },
+  {
+    "id": "iim-lucknow",
+    "name": "Indian Institute of Management Lucknow",
+    "slug": "iim-lucknow",
+    "location": "Lucknow, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "type": "Management",
+    "established": 1984,
+    "nirfRank": 6,
+    "rating": 4.8,
+    "reviewCount": 270,
+    "acceptanceRate": 0.22,
+    "totalStudents": 1100,
+    "campusSize": 190,
+    "about": "IIM Lucknow is a premier business school located in the historical city of Lucknow. Renowned for its rigorous academic curriculum, beautiful heritage campus, and top corporate finance placement index.",
+    "accreditations": [
+      "AMBA",
+      "AACSB"
+    ],
+    "entranceExams": [
+      "CAT"
+    ],
+    "courses": [
+      {
+        "name": "Post Graduate Programme (PGP)",
+        "duration": "2 Years",
+        "totalFees": 2075000,
+        "seats": 490,
+        "exam": "CAT",
+        "popular": true
+      }
+    ],
+    "placements": {
+      "avg": 30.1,
+      "highest": 65,
+      "percentage": 100,
+      "topRecruiters": [
+        "McKinsey",
+        "BCG",
+        "Bain",
+        "Goldman Sachs",
+        "Amazon",
+        "TAS"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 27.5,
+          "highest": 58
+        },
+        {
+          "year": 2023,
+          "avg": 29,
+          "highest": 62
+        },
+        {
+          "year": 2024,
+          "avg": 30.1,
+          "highest": 65
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Shweta Verma",
+        "course": "PGP Management",
+        "batch": "2023",
+        "rating": 4.8,
+        "categories": {
+          "academics": 5,
+          "accommodation": 5,
+          "placements": 5,
+          "infrastructure": 5,
+          "social": 4
+        },
+        "text": "Highly rigorous management programs. The placement cell is incredibly active and helps you secure top positions.",
+        "helpful": 22
+      }
+    ],
+    "quickStats": {
+      "rank": 6,
+      "acceptance": "0.22%",
+      "students": "1,100",
+      "campus": "190 Acres"
+    }
+  },
+  {
+    "id": "iim-kozhikode",
+    "name": "Indian Institute of Management Kozhikode",
+    "slug": "iim-kozhikode",
+    "location": "Kozhikode, Kerala",
+    "state": "Kerala",
+    "city": "Kozhikode",
+    "type": "Management",
+    "established": 1996,
+    "nirfRank": 3,
+    "rating": 4.8,
+    "reviewCount": 250,
+    "acceptanceRate": 0.25,
+    "totalStudents": 1000,
+    "campusSize": 112,
+    "about": "Situated on two scenic hilltops in Kozhikode, Kerala, IIMK is celebrated as one of the most picturesque campuses in India. It is a pioneer in gender diversity and strategic business leadership programs.",
+    "accreditations": [
+      "AMBA",
+      "EQUIS"
+    ],
+    "entranceExams": [
+      "CAT"
+    ],
+    "courses": [
+      {
+        "name": "Post Graduate Programme (PGP)",
+        "duration": "2 Years",
+        "totalFees": 2050000,
+        "seats": 480,
+        "exam": "CAT",
+        "popular": true
+      }
+    ],
+    "placements": {
+      "avg": 28.5,
+      "highest": 72,
+      "percentage": 100,
+      "topRecruiters": [
+        "Deloitte",
+        "McKinsey",
+        "PwC",
+        "Accenture",
+        "Microsoft"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 25,
+          "highest": 61.5
+        },
+        {
+          "year": 2023,
+          "avg": 27.2,
+          "highest": 68
+        },
+        {
+          "year": 2024,
+          "avg": 28.5,
+          "highest": 72
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Meera Krishnan",
+        "course": "PGP Management",
+        "batch": "2024",
+        "rating": 4.8,
+        "categories": {
+          "academics": 5,
+          "accommodation": 5,
+          "placements": 5,
+          "infrastructure": 5,
+          "social": 5
+        },
+        "text": "Living on the 'Kumpus' hilltops is a surreal experience. Peer diversity is outstanding.",
+        "helpful": 16
+      }
+    ],
+    "quickStats": {
+      "rank": 3,
+      "acceptance": "0.25%",
+      "students": "1,000",
+      "campus": "112 Acres"
+    }
+  },
+  {
+    "id": "xlri-jamshedpur",
+    "name": "XLRI — Xavier School of Management",
+    "slug": "xlri-jamshedpur",
+    "location": "Jamshedpur, Jharkhand",
+    "state": "Jharkhand",
+    "city": "Jamshedpur",
+    "type": "Management",
+    "established": 1949,
+    "nirfRank": 9,
+    "rating": 4.8,
+    "reviewCount": 320,
+    "acceptanceRate": 0.5,
+    "totalStudents": 1200,
+    "campusSize": 50,
+    "about": "XLRI Jamshedpur is the oldest business school in India. It is universally acknowledged as the absolute finest institution for Human Resource Management (HRM) in the country, fostering generations of corporate leaders.",
+    "accreditations": [
+      "AMBA",
+      "AACSB"
+    ],
+    "entranceExams": [
+      "XAT"
+    ],
+    "courses": [
+      {
+        "name": "PGDM in Human Resource Management (HRM)",
+        "duration": "2 Years",
+        "totalFees": 2580000,
+        "seats": 180,
+        "exam": "XAT",
+        "popular": true
+      },
+      {
+        "name": "PGDM in Business Management (BM)",
+        "duration": "2 Years",
+        "totalFees": 2580000,
+        "seats": 180,
+        "exam": "XAT",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 29.8,
+      "highest": 75,
+      "percentage": 100,
+      "topRecruiters": [
+        "TAS",
+        "Aditya Birla",
+        "P&G",
+        "HUL",
+        "McKinsey",
+        "BCG"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 26.8,
+          "highest": 60
+        },
+        {
+          "year": 2023,
+          "avg": 28.2,
+          "highest": 70
+        },
+        {
+          "year": 2024,
+          "avg": 29.8,
+          "highest": 75
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Aniket Goel",
+        "course": "PGDM HRM",
+        "batch": "2024",
+        "rating": 4.9,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 5,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "The culture of XLRI is defined by 'XL Culture' — high integration and humility. Placements for HRM are unmatched in Asia.",
+        "helpful": 31
+      }
+    ],
+    "quickStats": {
+      "rank": 9,
+      "acceptance": "0.5%",
+      "students": "1,200",
+      "campus": "50 Acres"
+    }
+  },
+  {
+    "id": "sp-jain",
+    "name": "S.P. Jain Institute of Management and Research",
+    "slug": "sp-jain",
+    "location": "Mumbai, Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "type": "Management",
+    "established": 1981,
+    "nirfRank": 20,
+    "rating": 4.7,
+    "reviewCount": 210,
+    "acceptanceRate": 0.8,
+    "totalStudents": 700,
+    "campusSize": 45,
+    "about": "SPJIMR is a premier business school in the heart of Mumbai. Renowned for its unique social value-driven curriculum (DOCC and Abhyudaya initiatives) and outstanding record in Marketing and Finance placements.",
+    "accreditations": [
+      "AMBA",
+      "AACSB"
+    ],
+    "entranceExams": [
+      "CAT",
+      "GMAT"
+    ],
+    "courses": [
+      {
+        "name": "Post Graduate Diploma in Management (PGDM)",
+        "duration": "2 Years",
+        "totalFees": 2200000,
+        "seats": 240,
+        "exam": "CAT",
+        "popular": true
+      }
+    ],
+    "placements": {
+      "avg": 32.5,
+      "highest": 81,
+      "percentage": 100,
+      "topRecruiters": [
+        "HUL",
+        "P&G",
+        "L'Oreal",
+        "McKinsey",
+        "Goldman Sachs",
+        "Amazon"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 29,
+          "highest": 65
+        },
+        {
+          "year": 2023,
+          "avg": 31.2,
+          "highest": 75
+        },
+        {
+          "year": 2024,
+          "avg": 32.5,
+          "highest": 81
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Vikash Jain",
+        "course": "PGDM Marketing",
+        "batch": "2023",
+        "rating": 4.7,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 5,
+          "infrastructure": 4,
+          "social": 4
+        },
+        "text": "The focus on ethics and societal impact sets SPJIMR apart. Marketing roles offered are best in the country.",
+        "helpful": 18
+      }
+    ],
+    "quickStats": {
+      "rank": 20,
+      "acceptance": "0.8%",
+      "students": "700",
+      "campus": "45 Acres"
+    }
+  },
+  {
+    "id": "mdi-gurgaon",
+    "name": "Management Development Institute",
+    "slug": "mdi-gurgaon",
+    "location": "Gurugram, Haryana",
+    "state": "Haryana",
+    "city": "Gurugram",
+    "type": "Management",
+    "established": 1973,
+    "nirfRank": 13,
+    "rating": 4.6,
+    "reviewCount": 250,
+    "acceptanceRate": 1.2,
+    "totalStudents": 800,
+    "campusSize": 37,
+    "about": "Management Development Institute Gurugram (MDI) is a premier private business school in the corporate hub of Haryana. MDI offers outstanding placements in consulting and finance.",
+    "accreditations": [
+      "AMBA",
+      "SAQS"
+    ],
+    "entranceExams": [
+      "CAT",
+      "GMAT"
+    ],
+    "courses": [
+      {
+        "name": "PGDM in Business Management",
+        "duration": "2 Years",
+        "totalFees": 2350000,
+        "seats": 240,
+        "exam": "CAT",
+        "popular": true
+      }
+    ],
+    "placements": {
+      "avg": 26.2,
+      "highest": 60,
+      "percentage": 100,
+      "topRecruiters": [
+        "Deloitte",
+        "KPMG",
+        "EY",
+        "Google",
+        "JP Morgan",
+        "PepsiCo"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 23.5,
+          "highest": 48
+        },
+        {
+          "year": 2023,
+          "avg": 25.1,
+          "highest": 54
+        },
+        {
+          "year": 2024,
+          "avg": 26.2,
+          "highest": 60
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Shruti Aggarwal",
+        "course": "PGDM",
+        "batch": "2024",
+        "rating": 4.6,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 5,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "The campus in Gurgaon gives immense exposure to corporate leaders. Placements are extremely structured and stable.",
+        "helpful": 15
+      }
+    ],
+    "quickStats": {
+      "rank": 13,
+      "acceptance": "1.2%",
+      "students": "800",
+      "campus": "37 Acres"
+    }
+  },
+  {
+    "id": "imt-ghaziabad",
+    "name": "Institute of Management Technology",
+    "slug": "imt-ghaziabad",
+    "location": "Ghaziabad, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Ghaziabad",
+    "type": "Management",
+    "established": 1980,
+    "nirfRank": 38,
+    "rating": 4.2,
+    "reviewCount": 280,
+    "acceptanceRate": 3.8,
+    "totalStudents": 900,
+    "campusSize": 14,
+    "about": "IMT Ghaziabad is one of the premier private management institutions in India, famous for its quantitative marketing coursework, active corporate connect, and large sales management placement network.",
+    "accreditations": [
+      "AACSB",
+      "AICTE"
+    ],
+    "entranceExams": [
+      "CAT",
+      "XAT",
+      "GMAT"
+    ],
+    "courses": [
+      {
+        "name": "PGDM in Marketing",
+        "duration": "2 Years",
+        "totalFees": 1950000,
+        "seats": 360,
+        "exam": "CAT",
+        "popular": true
+      }
+    ],
+    "placements": {
+      "avg": 17.3,
+      "highest": 34,
+      "percentage": 96,
+      "topRecruiters": [
+        "HUL",
+        "L'Oreal",
+        "Wipro",
+        "Cognizant",
+        "ICICI Bank"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 15.2,
+          "highest": 28
+        },
+        {
+          "year": 2023,
+          "avg": 16.1,
+          "highest": 31
+        },
+        {
+          "year": 2024,
+          "avg": 17.3,
+          "highest": 34
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Anuj Saxena",
+        "course": "PGDM Marketing",
+        "batch": "2024",
+        "rating": 4.1,
+        "categories": {
+          "academics": 4,
+          "accommodation": 3,
+          "placements": 4,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "If you want a core career in sales and marketing management, IMT's academic ecosystem is world-class.",
+        "helpful": 10
+      }
+    ],
+    "quickStats": {
+      "rank": 38,
+      "acceptance": "3.8%",
+      "students": "900",
+      "campus": "14 Acres"
+    }
+  },
+  {
+    "id": "nalsar-hyderabad",
+    "name": "NALSAR University of Law",
+    "slug": "nalsar-hyderabad",
+    "location": "Hyderabad, Telangana",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "type": "Law",
+    "established": 1998,
+    "nirfRank": 3,
+    "rating": 4.8,
+    "reviewCount": 160,
+    "acceptanceRate": 1.1,
+    "totalStudents": 900,
+    "campusSize": 55,
+    "about": "NALSAR Hyderabad is a leading public law school in Nagirbhavi's sister tier. Celebrated for its stellar campus layout, outstanding moot court cultures, and high-performance corporate placement rates.",
+    "accreditations": [
+      "BCI",
+      "UGC"
+    ],
+    "entranceExams": [
+      "CLAT"
+    ],
+    "courses": [
+      {
+        "name": "B.A. LL.B. (Honors)",
+        "duration": "5 Years",
+        "totalFees": 1450000,
+        "seats": 120,
+        "exam": "CLAT",
+        "popular": true
+      }
+    ],
+    "placements": {
+      "avg": 15.4,
+      "highest": 28.5,
+      "percentage": 96,
+      "topRecruiters": [
+        "Trilegal",
+        "Khaitan & Co",
+        "Cyril Amarchand Mangaldas",
+        "AZB & Partners"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 13.5,
+          "highest": 24
+        },
+        {
+          "year": 2023,
+          "avg": 14.8,
+          "highest": 26.5
+        },
+        {
+          "year": 2024,
+          "avg": 15.4,
+          "highest": 28.5
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Ananya Sen",
+        "course": "B.A. LL.B. (Hons)",
+        "batch": "2024",
+        "rating": 4.8,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 5,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "Excellent debate society and beautiful campus. Placements are extremely robust with all major law firms recruiting here.",
+        "helpful": 24
+      }
+    ],
+    "quickStats": {
+      "rank": 3,
+      "acceptance": "1.1%",
+      "students": "900",
+      "campus": "55 Acres"
+    }
+  },
+  {
+    "id": "nlu-delhi",
+    "name": "National Law University Delhi",
+    "slug": "nlu-delhi",
+    "location": "New Delhi, Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "type": "Law",
+    "established": 2008,
+    "nirfRank": 2,
+    "rating": 4.9,
+    "reviewCount": 140,
+    "acceptanceRate": 0.95,
+    "totalStudents": 600,
+    "campusSize": 21,
+    "about": "National Law University, Delhi is a premier public law school in Dwarka, New Delhi. Renowned for its outstanding academic standards, specialized research centers, and highly selective admissions via AILET.",
+    "accreditations": [
+      "BCI",
+      "UGC"
+    ],
+    "entranceExams": [
+      "AILET"
+    ],
+    "courses": [
+      {
+        "name": "B.A. LL.B. (Honors)",
+        "duration": "5 Years",
+        "totalFees": 1500000,
+        "seats": 110,
+        "exam": "AILET",
+        "popular": true
+      }
+    ],
+    "placements": {
+      "avg": 15.8,
+      "highest": 30,
+      "percentage": 95,
+      "topRecruiters": [
+        "Shardul Amarchand Mangaldas",
+        "Trilegal",
+        "Khaitan & Co",
+        "Luthra & Luthra"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 14,
+          "highest": 25
+        },
+        {
+          "year": 2023,
+          "avg": 15.1,
+          "highest": 27.5
+        },
+        {
+          "year": 2024,
+          "avg": 15.8,
+          "highest": 30
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Rahul Agrawal",
+        "course": "B.A. LL.B. (Hons)",
+        "batch": "2023",
+        "rating": 4.9,
+        "categories": {
+          "academics": 5,
+          "accommodation": 3,
+          "placements": 5,
+          "infrastructure": 5,
+          "social": 4
+        },
+        "text": "Admissions are incredibly tough via AILET. Dwarka campus has state of the art labs and excellent corporate networks.",
+        "helpful": 16
+      }
+    ],
+    "quickStats": {
+      "rank": 2,
+      "acceptance": "0.95%",
+      "students": "600",
+      "campus": "21 Acres"
+    }
+  },
+  {
+    "id": "symbiosis-law",
+    "name": "Symbiosis Law School, Pune",
+    "slug": "symbiosis-law",
+    "location": "Pune, Maharashtra",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "type": "Law",
+    "established": 1977,
+    "nirfRank": 5,
+    "rating": 4.4,
+    "reviewCount": 180,
+    "acceptanceRate": 8,
+    "totalStudents": 1500,
+    "campusSize": 40,
+    "about": "Symbiosis Law School Pune is one of the premier private law schools in India. It is renowned for its global curriculum, corporate moot courts, and excellent record of students securing roles in major multinational conglomerates.",
+    "accreditations": [
+      "BCI",
+      "NAAC A++"
+    ],
+    "entranceExams": [
+      "SLAT"
+    ],
+    "courses": [
+      {
+        "name": "BBA LLB (Honors)",
+        "duration": "5 Years",
+        "totalFees": 1850000,
+        "seats": 120,
+        "exam": "SLAT",
+        "popular": true
+      }
+    ],
+    "placements": {
+      "avg": 9.2,
+      "highest": 18,
+      "percentage": 88,
+      "topRecruiters": [
+        "Khaitan & Co",
+        "Trilegal",
+        "ICICI Bank",
+        "Deloitte",
+        "TATA"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 8,
+          "highest": 15
+        },
+        {
+          "year": 2023,
+          "avg": 8.8,
+          "highest": 16.5
+        },
+        {
+          "year": 2024,
+          "avg": 9.2,
+          "highest": 18
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Rohini Deshmukh",
+        "course": "BBA LLB",
+        "batch": "2024",
+        "rating": 4.5,
+        "categories": {
+          "academics": 4,
+          "accommodation": 4,
+          "placements": 4,
+          "infrastructure": 5,
+          "social": 5
+        },
+        "text": "Pune has an amazing student life, and SLS offers high-quality moot court training and corporate networking.",
+        "helpful": 12
+      }
+    ],
+    "quickStats": {
+      "rank": 5,
+      "acceptance": "8.0%",
+      "students": "1,500",
+      "campus": "40 Acres"
+    }
+  },
+  {
+    "id": "jindal-law",
+    "name": "Jindal Global Law School",
+    "slug": "jindal-law",
+    "location": "Sonepat, Haryana",
+    "state": "Haryana",
+    "city": "Sonepat",
+    "type": "Law",
+    "established": 2009,
+    "nirfRank": 1,
+    "rating": 4.6,
+    "reviewCount": 240,
+    "acceptanceRate": 9.5,
+    "totalStudents": 4500,
+    "campusSize": 80,
+    "about": "Jindal Global Law School (JGLS) is highly recognized globally for its comprehensive curriculum, international exchange programs, and outstanding placement indices.",
+    "accreditations": [
+      "BCI",
+      "Institute of Eminence"
+    ],
+    "entranceExams": [
+      "LSAT India"
+    ],
+    "courses": [
+      {
+        "name": "B.A. LL.B. (Honors)",
+        "duration": "5 Years",
+        "totalFees": 3125000,
+        "seats": 300,
+        "exam": "LSAT India",
+        "popular": true
+      }
+    ],
+    "placements": {
+      "avg": 12,
+      "highest": 22,
+      "percentage": 92,
+      "topRecruiters": [
+        "Shardul Amarchand Mangaldas",
+        "Khaitan & Co",
+        "Trilegal",
+        "AZB"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 9.8,
+          "highest": 18
+        },
+        {
+          "year": 2023,
+          "avg": 11,
+          "highest": 20
+        },
+        {
+          "year": 2024,
+          "avg": 12,
+          "highest": 22
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Karan Malhotra",
+        "course": "B.A. LL.B. (Hons)",
+        "batch": "2024",
+        "rating": 4.6,
+        "categories": {
+          "academics": 5,
+          "accommodation": 5,
+          "placements": 4,
+          "infrastructure": 5,
+          "social": 5
+        },
+        "text": "Stellar moot court halls, premium global faculty, and top law placements. The infrastructure is top notch.",
+        "helpful": 15
+      }
+    ],
+    "quickStats": {
+      "rank": 1,
+      "acceptance": "9.5%",
+      "students": "4,500",
+      "campus": "80 Acres"
+    }
+  },
+  {
+    "id": "lsr-delhi",
+    "name": "Lady Shri Ram College for Women",
+    "slug": "lsr-delhi",
+    "location": "New Delhi, Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "type": "Arts",
+    "established": 1956,
+    "nirfRank": 9,
+    "rating": 4.8,
+    "reviewCount": 260,
+    "acceptanceRate": 1.2,
+    "totalStudents": 2000,
+    "campusSize": 15,
+    "about": "Lady Shri Ram College for Women (LSR) is a premier constituent college of the University of Delhi. Renowned as one of the finest institutions for liberal arts, social sciences, and commerce, producing pioneering female leaders.",
+    "accreditations": [
+      "UGC",
+      "NAAC A++"
+    ],
+    "entranceExams": [
+      "CUET"
+    ],
+    "courses": [
+      {
+        "name": "B.A. (Honors) in Economics",
+        "duration": "3 Years",
+        "totalFees": 90000,
+        "seats": 100,
+        "exam": "CUET",
+        "popular": true
+      },
+      {
+        "name": "B.A. (Honors) in English",
+        "duration": "3 Years",
+        "totalFees": 90000,
+        "seats": 80,
+        "exam": "CUET",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 9.2,
+      "highest": 30,
+      "percentage": 85,
+      "topRecruiters": [
+        "Bain & Company",
+        "McKinsey",
+        "BCG",
+        "Deloitte",
+        "EY"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 8,
+          "highest": 22
+        },
+        {
+          "year": 2023,
+          "avg": 8.8,
+          "highest": 25
+        },
+        {
+          "year": 2024,
+          "avg": 9.2,
+          "highest": 30
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Anushka Sharma",
+        "course": "B.A. Economics (Hons)",
+        "batch": "2024",
+        "rating": 4.8,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 5,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "Highly empowering environment. Placement board brings the finest consultancies in India to campus.",
+        "helpful": 37
+      }
+    ],
+    "quickStats": {
+      "rank": 9,
+      "acceptance": "1.2%",
+      "students": "2,000",
+      "campus": "15 Acres"
+    }
+  },
+  {
+    "id": "presidency-kolkata",
+    "name": "Presidency University, Kolkata",
+    "slug": "presidency-kolkata",
+    "location": "Kolkata, West Bengal",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "type": "Arts",
+    "established": 1817,
+    "nirfRank": 99,
+    "rating": 4.4,
+    "reviewCount": 180,
+    "acceptanceRate": 3.5,
+    "totalStudents": 3000,
+    "campusSize": 15,
+    "about": "Presidency University (formerly Hindoo College) is a historic public state university in Kolkata. Renowned for its outstanding intellectual heritage, pioneering political movements, and standard liberal education.",
+    "accreditations": [
+      "UGC",
+      "NAAC A"
+    ],
+    "entranceExams": [
+      "PUBDET"
+    ],
+    "courses": [
+      {
+        "name": "B.A. (Honors) in History",
+        "duration": "3 Years",
+        "totalFees": 15000,
+        "seats": 60,
+        "exam": "PUBDET",
+        "popular": true
+      },
+      {
+        "name": "B.A. (Honors) in English",
+        "duration": "3 Years",
+        "totalFees": 15000,
+        "seats": 60,
+        "exam": "PUBDET",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 4.8,
+      "highest": 12,
+      "percentage": 78,
+      "topRecruiters": [
+        "Cognizant",
+        "TCS",
+        "Pratham",
+        "Teach For India"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 4,
+          "highest": 10
+        },
+        {
+          "year": 2023,
+          "avg": 4.5,
+          "highest": 11
+        },
+        {
+          "year": 2024,
+          "avg": 4.8,
+          "highest": 12
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Srijit Chatterjee",
+        "course": "B.A. English (Hons)",
+        "batch": "2023",
+        "rating": 4.5,
+        "categories": {
+          "academics": 5,
+          "accommodation": 3,
+          "placements": 4,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "Unmatched intellectual debate culture. Library houses rare manuscripts and heritage halls are beautiful.",
+        "helpful": 16
+      }
+    ],
+    "quickStats": {
+      "rank": 99,
+      "acceptance": "3.5%",
+      "students": "3,000",
+      "campus": "15 Acres"
+    }
+  },
+  {
+    "id": "fergusson-pune",
+    "name": "Fergusson College Pune",
+    "slug": "fergusson-pune",
+    "location": "Pune, Maharashtra",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "type": "Arts",
+    "established": 1885,
+    "nirfRank": 104,
+    "rating": 4.4,
+    "reviewCount": 210,
+    "acceptanceRate": 4.8,
+    "totalStudents": 5500,
+    "campusSize": 65,
+    "about": "Fergusson College is a historic autonomous arts and sciences college in Pune, Maharashtra. Established in 1885 by the Deccan Education Society, it has nurtured multiple prime ministers and writers.",
+    "accreditations": [
+      "UGC",
+      "NAAC A++"
+    ],
+    "entranceExams": [
+      "Fergusson Entrance Test"
+    ],
+    "courses": [
+      {
+        "name": "B.A. in Psychology",
+        "duration": "3 Years",
+        "totalFees": 24000,
+        "seats": 120,
+        "exam": "Fergusson Entrance Test",
+        "popular": true
+      },
+      {
+        "name": "B.A. in Economics",
+        "duration": "3 Years",
+        "totalFees": 24000,
+        "seats": 120,
+        "exam": "Fergusson Entrance Test",
+        "popular": false
+      }
+    ],
+    "placements": {
+      "avg": 5.2,
+      "highest": 15,
+      "percentage": 82,
+      "topRecruiters": [
+        "Deloitte",
+        "De Shaw",
+        "EY",
+        "Cognizant"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 4.5,
+          "highest": 11
+        },
+        {
+          "year": 2023,
+          "avg": 4.9,
+          "highest": 13.5
+        },
+        {
+          "year": 2024,
+          "avg": 5.2,
+          "highest": 15
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Aditi Deshpande",
+        "course": "B.A. Psychology",
+        "batch": "2024",
+        "rating": 4.5,
+        "categories": {
+          "academics": 5,
+          "accommodation": 3,
+          "placements": 4,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "Fergusson has a legendary campus on FC Road. Outstanding liberal arts culture and excellent psychology departments.",
+        "helpful": 12
+      }
+    ],
+    "quickStats": {
+      "rank": 104,
+      "acceptance": "4.8%",
+      "students": "5,500",
+      "campus": "65 Acres"
+    }
+  },
+  {
+    "id": "pearl-delhi",
+    "name": "Pearl Academy, Delhi",
+    "slug": "pearl-delhi",
+    "location": "New Delhi, Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "type": "Design",
+    "established": 1993,
+    "nirfRank": 50,
+    "rating": 4.2,
+    "reviewCount": 110,
+    "acceptanceRate": 15,
+    "totalStudents": 1800,
+    "campusSize": 8,
+    "about": "Pearl Academy is a premier private design institute in India. Highly recognized for fashion, animation, and interior design portfolios, partnering with top international creative universities.",
+    "accreditations": [
+      "AICTE",
+      "DUTA"
+    ],
+    "entranceExams": [
+      "Pearl Academy Entrance Exam"
+    ],
+    "courses": [
+      {
+        "name": "Bachelor of Design (B.Des)",
+        "duration": "4 Years",
+        "totalFees": 2800000,
+        "seats": 120,
+        "exam": "Pearl Academy Entrance Exam",
+        "popular": true
+      }
+    ],
+    "placements": {
+      "avg": 6.2,
+      "highest": 16.5,
+      "percentage": 82,
+      "topRecruiters": [
+        "Reliance Retail",
+        "Zara India",
+        "Fabindia",
+        "Sabyasachi"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 5.5,
+          "highest": 12
+        },
+        {
+          "year": 2023,
+          "avg": 5.9,
+          "highest": 14.5
+        },
+        {
+          "year": 2024,
+          "avg": 6.2,
+          "highest": 16.5
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Priya Sen",
+        "course": "B.Des Fashion",
+        "batch": "2024",
+        "rating": 4.1,
+        "categories": {
+          "academics": 4,
+          "accommodation": 3,
+          "placements": 4,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "Highly commercial and creative. Excellent industry fashion ramps and corporate guest jury sessions.",
+        "helpful": 8
+      }
+    ],
+    "quickStats": {
+      "rank": 50,
+      "acceptance": "15.0%",
+      "students": "1,800",
+      "campus": "8 Acres"
+    }
+  },
+  {
+    "id": "srishti-bangalore",
+    "name": "Srishti Manipal Institute of Art, Design and Technology",
+    "slug": "srishti-bangalore",
+    "location": "Bengaluru, Karnataka",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "type": "Design",
+    "established": 1996,
+    "nirfRank": 45,
+    "rating": 4.5,
+    "reviewCount": 130,
+    "acceptanceRate": 10.2,
+    "totalStudents": 1500,
+    "campusSize": 10,
+    "about": "Srishti Manipal is a leading private design school in Yelahanka, Bangalore. Highly recognized for communication design, product design, and creative technology portfolios, with strong roots in Bangalore's tech startup ecosystems.",
+    "accreditations": [
+      "MAHE",
+      "UGC"
+    ],
+    "entranceExams": [
+      "SMEAT"
+    ],
+    "courses": [
+      {
+        "name": "Bachelor of Design (B.Des)",
+        "duration": "4 Years",
+        "totalFees": 2400000,
+        "seats": 150,
+        "exam": "SMEAT",
+        "popular": true
+      }
+    ],
+    "placements": {
+      "avg": 7.8,
+      "highest": 20,
+      "percentage": 88,
+      "topRecruiters": [
+        "Samsung Design",
+        "Microsoft Research",
+        "Cognizant",
+        "Adobe"
+      ],
+      "yearwise": [
+        {
+          "year": 2022,
+          "avg": 6.8,
+          "highest": 16
+        },
+        {
+          "year": 2023,
+          "avg": 7.2,
+          "highest": 18.5
+        },
+        {
+          "year": 2024,
+          "avg": 7.8,
+          "highest": 20
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "author": "Neil D'Souza",
+        "course": "B.Des Communication",
+        "batch": "2023",
+        "rating": 4.6,
+        "categories": {
+          "academics": 5,
+          "accommodation": 4,
+          "placements": 4,
+          "infrastructure": 4,
+          "social": 5
+        },
+        "text": "Srishti focuses on liberal exploration and digital portfolios. The connection to Bangalore startup ecosystems is incredible.",
+        "helpful": 14
+      }
+    ],
+    "quickStats": {
+      "rank": 45,
+      "acceptance": "10.2%",
+      "students": "1,500",
+      "campus": "10 Acres"
+    }
+  }
+]
